@@ -1,0 +1,43 @@
+{
+    "name": "BillyysLesbianPage1",
+    "modpack": "BillyysLesbian",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "OStim2PStandingCloseFF"
+        }
+    ],
+    "navigations": [
+        {
+            "origin": "BillyysLesbianFfHub",
+            "description": "BillyysLesbianPage1"
+        },
+        {
+            "destination": "BillyysLesbianFfHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return",
+            "priority": -1000
+        }
+    ],
+    "tags": [
+        "idle",
+        "intro"
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "noRandomSelection": true
+}

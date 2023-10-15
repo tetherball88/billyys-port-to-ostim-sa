@@ -1,0 +1,42 @@
+{
+    "name": "Billyy Footjob",
+    "modpack": "BillyyAnimations",
+    "length": 8,
+    "destination": "BillyyFj-4",
+    "speeds": [
+        {
+            "animation": "BillyyFj_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 4,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "sitting"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "footjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

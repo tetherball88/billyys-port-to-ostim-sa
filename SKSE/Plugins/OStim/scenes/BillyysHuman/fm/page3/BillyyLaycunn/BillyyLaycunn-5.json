@@ -1,0 +1,42 @@
+{
+    "name": "Billyy Laying Cunnilingus",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyLaycunn-4",
+    "speeds": [
+        {
+            "animation": "BillyyLaycunn_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 9,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingfront"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "lickingvagina",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

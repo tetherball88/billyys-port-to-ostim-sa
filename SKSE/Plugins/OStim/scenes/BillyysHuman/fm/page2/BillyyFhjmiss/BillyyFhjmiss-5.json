@@ -1,0 +1,58 @@
+{
+    "name": "Billyy Mutual Finger and Handjob Missionary",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyFhjmiss-4",
+    "speeds": [
+        {
+            "animation": "BillyyFhjmiss_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalfingering",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "cumonchest",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "facial",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "handjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

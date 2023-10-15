@@ -1,0 +1,49 @@
+{
+    "name": "Billyy Lesbian Cunnilingus 1 Facesit",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyLcunn1-4",
+    "speeds": [
+        {
+            "animation": "BillyyLcunn1_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback",
+                "onbottom",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "sitting",
+                "ontop",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "femalemasturbation",
+            "actor": 0
+        },
+        {
+            "type": "lickingvagina",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "facesitting",
+        "transition"
+    ]
+}

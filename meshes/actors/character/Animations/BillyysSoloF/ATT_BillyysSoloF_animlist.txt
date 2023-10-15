@@ -1,0 +1,26 @@
+b -Tn BillyyFmast1_1_0 ..\BillyysSoloF\fPos\BillyyFmast1\BillyyFmast1_1_0.hkx  
+b -Tn BillyyFmast1_2_0 ..\BillyysSoloF\fPos\BillyyFmast1\BillyyFmast1_2_0.hkx  
+b -Tn BillyyFmast1_3_0 ..\BillyysSoloF\fPos\BillyyFmast1\BillyyFmast1_3_0.hkx  
+b -Tn BillyyFmast1_4_0 ..\BillyysSoloF\fPos\BillyyFmast1\BillyyFmast1_4_0.hkx  
+b -Tn BillyyFmast1_5_0 ..\BillyysSoloF\fPos\BillyyFmast1\BillyyFmast1_5_0.hkx  
+b -Tn BillyyFmast2_1_0 ..\BillyysSoloF\fPos\BillyyFmast2\BillyyFmast2_1_0.hkx  
+b -Tn BillyyFmast2_2_0 ..\BillyysSoloF\fPos\BillyyFmast2\BillyyFmast2_2_0.hkx  
+b -Tn BillyyFmast2_3_0 ..\BillyysSoloF\fPos\BillyyFmast2\BillyyFmast2_3_0.hkx  
+b -Tn BillyyFmast2_4_0 ..\BillyysSoloF\fPos\BillyyFmast2\BillyyFmast2_4_0.hkx  
+b -Tn BillyyFmast2_5_0 ..\BillyysSoloF\fPos\BillyyFmast2\BillyyFmast2_5_0.hkx  
+b -Tn BillyyFmast3_1_0 ..\BillyysSoloF\fPos\BillyyFmast3\BillyyFmast3_1_0.hkx  
+b -Tn BillyyFmast3_2_0 ..\BillyysSoloF\fPos\BillyyFmast3\BillyyFmast3_2_0.hkx  
+b -Tn BillyyFmast3_3_0 ..\BillyysSoloF\fPos\BillyyFmast3\BillyyFmast3_3_0.hkx  
+b -Tn BillyyFmast3_4_0 ..\BillyysSoloF\fPos\BillyyFmast3\BillyyFmast3_4_0.hkx  
+b -Tn BillyyFmast3_5_0 ..\BillyysSoloF\fPos\BillyyFmast3\BillyyFmast3_5_0.hkx  
+b -Tn BillyyFmast4_1_0 ..\BillyysSoloF\fPos\BillyyFmast4\BillyyFmast4_1_0.hkx  
+b -Tn BillyyFmast4_2_0 ..\BillyysSoloF\fPos\BillyyFmast4\BillyyFmast4_2_0.hkx  
+b -Tn BillyyFmast4_3_0 ..\BillyysSoloF\fPos\BillyyFmast4\BillyyFmast4_3_0.hkx  
+b -Tn BillyyFmast4_4_0 ..\BillyysSoloF\fPos\BillyyFmast4\BillyyFmast4_4_0.hkx  
+b -Tn BillyyFmast4_5_0 ..\BillyysSoloF\fPos\BillyyFmast4\BillyyFmast4_5_0.hkx  
+b -o BillyyFmaststaff_1_0 ..\BillyysSoloF\fPos\BillyyFmaststaff\BillyyFmaststaff_1_0.hkx AO_BStaff2 
+b -o BillyyFmaststaff_2_0 ..\BillyysSoloF\fPos\BillyyFmaststaff\BillyyFmaststaff_2_0.hkx AO_BStaff2 
+b -o BillyyFmaststaff_3_0 ..\BillyysSoloF\fPos\BillyyFmaststaff\BillyyFmaststaff_3_0.hkx AO_BStaff2 AOMBallMNodeR AO_BMCsA 
+b -o BillyyFmaststaff_4_0 ..\BillyysSoloF\fPos\BillyyFmaststaff\BillyyFmaststaff_4_0.hkx AO_BStaff2 AOMBallMNodeR AO_BMCsA 
+b -o BillyyFmaststaff_5_0 ..\BillyysSoloF\fPos\BillyyFmaststaff\BillyyFmaststaff_5_0.hkx AO_BStaff2 AO_BMCsA 
+b -o BillyyFmaststaff_6_0 ..\BillyysSoloF\fPos\BillyyFmaststaff\BillyyFmaststaff_6_0.hkx AO_BStaff2 AO_BMCsA 

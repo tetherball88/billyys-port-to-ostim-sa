@@ -1,0 +1,132 @@
+<!-- Created with FOMOD Creation Tool 1.7.0.37 [http://www.nexusmods.com/fallout4/mods/6821] --> 
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd"> 
+	<moduleName>Billyy's animations for Ostim Standalone</moduleName> 
+	<installSteps order="Explicit"> 
+		<installStep name="Choose animations modules"> 
+			<optionalFileGroups order="Explicit"> 
+				<group name="Modules" type="SelectAny"> 
+					<plugins order="Explicit"> 
+						<plugin name="Human"> 
+							<description>~290 animation scenes;&#13;&#10;
+Designed for heterosexual actors&#13;&#10;
+Safe to play in Ostim's auto mode;&#13;&#10;
+Animations designed for these set of female and male actors: FM</description> 
+							<image path="fomod\pictures\billyy_human.jpg" /> 
+							<conditionFlags> 
+								<flag name="RequiresObjects">On</flag> 
+							</conditionFlags> 
+							<files> 
+								<folder source="BillyysHuman" destination="" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Group"> 
+							<description>~149 animation scenes;&#13;&#10;
+Designed for heterosexual actors&#13;&#10;
+Animations designed for these set of female and male actors: FMM, FMMM, FMMMM</description> 
+							<image path="fomod\pictures\billyy_group.jpg" /> 
+							<conditionFlags> 
+								<flag name="RequiresObjects">On</flag> 
+							</conditionFlags> 
+							<files> 
+								<folder source="BillyysGroup" destination="" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Orgy"> 
+							<description>~86 animation scenes;&#13;&#10;
+Designed for heterosexual actors&#13;&#10;
+Animations designed for these set of female and male actors: FFMM, FFM, FFFM, FFFFM</description> 
+							<image path="fomod\pictures\billyy_orgy.jpg" /> 
+							<files> 
+								<folder source="BillyysOrgy" destination="" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Lesbian"> 
+							<description>~139 animation scenes;&#13;&#10;
+Designed for same gender female actors&#13;&#10;
+Safe to play in Ostim's auto mode;&#13;&#10;
+Animations designed for these set of female actors: FF and FFF</description> 
+							<image path="fomod\pictures\billyy_lesbian.jpg" /> 
+							<conditionFlags> 
+								<flag name="RequiresObjects">On</flag> 
+							</conditionFlags> 
+							<files> 
+								<folder source="BillyysLesbian" destination="" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="SoloF"> 
+							<description>~27 animation scenes;&#13;&#10;
+Designed for single female actor&#13;&#10;
+Safe to play in Ostim's auto mode;&#13;&#10;
+</description> 
+							<image path="fomod\pictures\billyy_solo_f.jpg" /> 
+							<conditionFlags> 
+								<flag name="RequiresObjects">On</flag> 
+							</conditionFlags> 
+							<files> 
+								<folder source="BillyysSoloF" destination="" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="SoloM"> 
+							<description>~31 animation scenes;&#13;&#10;
+Designed for single male actor&#13;&#10;
+Safe to play in Ostim's auto mode;</description> 
+							<image path="fomod\pictures\billyy_solo_m.jpg" /> 
+							<conditionFlags> 
+								<flag name="RequiresObjects">On</flag> 
+							</conditionFlags> 
+							<files> 
+								<folder source="BillyysSoloM" destination="" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Spawned Furniture"> 
+							<description>~49 animation scenes;&#13;&#10;
+Designed for heterosexual actors&#13;&#10;
+Animations are excluded from Ostim's auto mode;&#13;&#10;
+Animations designed for these set of female and male actors: F, FM, FMM</description> 
+							<image path="fomod\pictures\billyy_obj.jpg" /> 
+							<conditionFlags> 
+								<flag name="RequiresObjects">On</flag>
+							</conditionFlags> 
+							<files> 
+								<folder source="BillyysSpawnedFurniture" destination="" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+					</plugins> 
+				</group> 
+			</optionalFileGroups> 
+		</installStep> 
+	</installSteps> 
+	<conditionalFileInstalls> 
+		<patterns> 
+			<pattern> 
+				<dependencies operator="And"> 
+					<flagDependency flag="RequiresObjects" value="On"/> 
+				</dependencies> 
+				<files> 
+					<folder source="anim-objects" destination="" priority="0" /> 
+				</files> 
+			</pattern> 
+		</patterns> 
+	</conditionalFileInstalls> 
+</config>

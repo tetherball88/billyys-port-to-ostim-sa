@@ -1,0 +1,45 @@
+{
+    "name": "Billyy Cowgirl Anal",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyCganal-4",
+    "speeds": [
+        {
+            "animation": "BillyyCganal_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "analsex",
+            "actor": 0,
+            "target": 1,
+            "performer": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "cowgirl",
+        "transition"
+    ]
+}

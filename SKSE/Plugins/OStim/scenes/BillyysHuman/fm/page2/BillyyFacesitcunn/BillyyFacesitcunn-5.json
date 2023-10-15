@@ -1,0 +1,44 @@
+{
+    "name": "Billyy Facesit Cunnilingus",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyFacesitcunn-4",
+    "speeds": [
+        {
+            "animation": "BillyyFacesitcunn_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "sitting",
+                "facingaway",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "cunnilingus",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "facesitting",
+        "transition"
+    ]
+}

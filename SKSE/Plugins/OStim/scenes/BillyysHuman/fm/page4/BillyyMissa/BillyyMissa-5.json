@@ -1,0 +1,44 @@
+{
+    "name": "Billyy Missionary Anal",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyMissa-4",
+    "speeds": [
+        {
+            "animation": "BillyyMissa_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "analsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "missionary",
+        "transition"
+    ]
+}

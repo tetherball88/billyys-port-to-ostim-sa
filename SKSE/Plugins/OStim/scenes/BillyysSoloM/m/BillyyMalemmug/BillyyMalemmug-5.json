@@ -1,0 +1,33 @@
+{
+    "name": "Billyy M Masturbation Mug",
+    "modpack": "BillyyAnimations",
+    "length": 8,
+    "destination": "BillyyMalemmug-4",
+    "speeds": [
+        {
+            "animation": "BillyyMalemmug_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 4,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "malemasturbation",
+            "actor": 0
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

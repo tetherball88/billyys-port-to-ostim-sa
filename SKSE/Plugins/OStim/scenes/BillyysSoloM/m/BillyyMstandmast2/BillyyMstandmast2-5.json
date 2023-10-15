@@ -1,0 +1,33 @@
+{
+    "name": "Billyy M Standing Masutrbation 2",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyMstandmast2-4",
+    "speeds": [
+        {
+            "animation": "BillyyMstandmast2_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "malemasturbation",
+            "actor": 0
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

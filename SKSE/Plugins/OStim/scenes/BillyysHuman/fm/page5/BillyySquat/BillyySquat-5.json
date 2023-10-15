@@ -1,0 +1,45 @@
+{
+    "name": "Billyy Squatting",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyySquat-4",
+    "speeds": [
+        {
+            "animation": "BillyySquat_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 3,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "allfours",
+                "facingaway",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "doggystyle",
+        "transition"
+    ]
+}

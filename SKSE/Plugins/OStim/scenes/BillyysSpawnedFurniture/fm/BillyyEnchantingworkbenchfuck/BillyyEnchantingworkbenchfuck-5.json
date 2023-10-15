@@ -1,0 +1,55 @@
+{
+    "name": "Billyy Enchanting WorkBench Fuck",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyEnchantingworkbenchfuck-4",
+    "speeds": [
+        {
+            "animation": "BillyyEnchantingworkbenchfuck_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "spreadlegs",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "analtoying",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingleg",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

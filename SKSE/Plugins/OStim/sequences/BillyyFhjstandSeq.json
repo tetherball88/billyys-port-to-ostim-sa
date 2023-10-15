@@ -1,0 +1,25 @@
+{
+    "scenes": [
+        {
+            "id": "BillyyFhjstand-1",
+            "duration": 8
+        },
+        {
+            "id": "BillyyFhjstand-2",
+            "duration": 8
+        },
+        {
+            "id": "BillyyFhjstand-3",
+            "duration": 8.333333
+        },
+        {
+            "id": "BillyyFhjstand-4",
+            "duration": 8
+        },
+        {
+            "id": "BillyyFhjstand-5",
+            "duration": 8.333333
+        }
+    ],
+    "tags": []
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Billyy Cowgirl Thighjob",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyCthighj-4",
+    "speeds": [
+        {
+            "animation": "BillyyCthighj_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "onbottom",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "sitting",
+                "ontop"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "cumonchest",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "thighjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "billyy",
+        "cowgirl",
+        "transition"
+    ]
+}

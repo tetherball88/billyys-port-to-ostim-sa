@@ -1,0 +1,110 @@
+{
+    "name": "Billyy 4p FFMM Standing Swing",
+    "modpack": "BillyyAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "Billyy4pffmmstandingswing-4",
+            "description": "Next",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "Billyy4pffmmstandingswing-2",
+            "description": "Back",
+            "icon": "OStim/symbols/arrow_left"
+        },
+        {
+            "destination": "BillyysOrgyFfmmHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "Billyy4pffmmstandingswing_3"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 5,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 7,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "spreadlegs"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "spreadlegs"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "holdingleg",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 1,
+            "target": 3
+        },
+        {
+            "type": "holdingleg",
+            "actor": 1,
+            "target": 3
+        },
+        {
+            "type": "hug",
+            "actor": 2,
+            "target": 0
+        },
+        {
+            "type": "hug",
+            "actor": 2,
+            "target": 3
+        },
+        {
+            "type": "hug",
+            "actor": 3,
+            "target": 1
+        },
+        {
+            "type": "hug",
+            "actor": 3,
+            "target": 2
+        }
+    ],
+    "tags": [
+        "anubs"
+    ]
+}

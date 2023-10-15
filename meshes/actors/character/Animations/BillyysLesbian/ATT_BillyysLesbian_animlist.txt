@@ -1,0 +1,300 @@
+b -Tn BillyyL3porgy1_1_0 ..\BillyysLesbian\fffPos\BillyyL3porgy1\BillyyL3porgy1_1_0.hkx  
+b -Tn BillyyL3porgy1_2_0 ..\BillyysLesbian\fffPos\BillyyL3porgy1\BillyyL3porgy1_2_0.hkx  
+b -Tn BillyyL3porgy1_3_0 ..\BillyysLesbian\fffPos\BillyyL3porgy1\BillyyL3porgy1_3_0.hkx  
+b -Tn BillyyL3porgy1_4_0 ..\BillyysLesbian\fffPos\BillyyL3porgy1\BillyyL3porgy1_4_0.hkx  
+b -Tn BillyyL3porgy1_5_0 ..\BillyysLesbian\fffPos\BillyyL3porgy1\BillyyL3porgy1_5_0.hkx  
+b -Tn BillyyL3porgy1_1_1 ..\BillyysLesbian\fffPos\BillyyL3porgy1\BillyyL3porgy1_1_1.hkx  
+b -Tn BillyyL3porgy1_2_1 ..\BillyysLesbian\fffPos\BillyyL3porgy1\BillyyL3porgy1_2_1.hkx  
+b -Tn BillyyL3porgy1_3_1 ..\BillyysLesbian\fffPos\BillyyL3porgy1\BillyyL3porgy1_3_1.hkx  
+b -Tn BillyyL3porgy1_4_1 ..\BillyysLesbian\fffPos\BillyyL3porgy1\BillyyL3porgy1_4_1.hkx  
+b -Tn BillyyL3porgy1_5_1 ..\BillyysLesbian\fffPos\BillyyL3porgy1\BillyyL3porgy1_5_1.hkx  
+b -Tn BillyyL3porgy1_1_2 ..\BillyysLesbian\fffPos\BillyyL3porgy1\BillyyL3porgy1_1_2.hkx  
+b -Tn BillyyL3porgy1_2_2 ..\BillyysLesbian\fffPos\BillyyL3porgy1\BillyyL3porgy1_2_2.hkx  
+b -Tn BillyyL3porgy1_3_2 ..\BillyysLesbian\fffPos\BillyyL3porgy1\BillyyL3porgy1_3_2.hkx  
+b -Tn BillyyL3porgy1_4_2 ..\BillyysLesbian\fffPos\BillyyL3porgy1\BillyyL3porgy1_4_2.hkx  
+b -Tn BillyyL3porgy1_5_2 ..\BillyysLesbian\fffPos\BillyyL3porgy1\BillyyL3porgy1_5_2.hkx  
+b -Tn BillyyL3porgy2_1_0 ..\BillyysLesbian\fffPos\BillyyL3porgy2\BillyyL3porgy2_1_0.hkx  
+b -Tn BillyyL3porgy2_2_0 ..\BillyysLesbian\fffPos\BillyyL3porgy2\BillyyL3porgy2_2_0.hkx  
+b -Tn BillyyL3porgy2_3_0 ..\BillyysLesbian\fffPos\BillyyL3porgy2\BillyyL3porgy2_3_0.hkx  
+b -Tn BillyyL3porgy2_4_0 ..\BillyysLesbian\fffPos\BillyyL3porgy2\BillyyL3porgy2_4_0.hkx  
+b -Tn BillyyL3porgy2_5_0 ..\BillyysLesbian\fffPos\BillyyL3porgy2\BillyyL3porgy2_5_0.hkx  
+b -Tn BillyyL3porgy2_1_1 ..\BillyysLesbian\fffPos\BillyyL3porgy2\BillyyL3porgy2_1_1.hkx  
+b -Tn BillyyL3porgy2_2_1 ..\BillyysLesbian\fffPos\BillyyL3porgy2\BillyyL3porgy2_2_1.hkx  
+b -Tn BillyyL3porgy2_3_1 ..\BillyysLesbian\fffPos\BillyyL3porgy2\BillyyL3porgy2_3_1.hkx  
+b -Tn BillyyL3porgy2_4_1 ..\BillyysLesbian\fffPos\BillyyL3porgy2\BillyyL3porgy2_4_1.hkx  
+b -Tn BillyyL3porgy2_5_1 ..\BillyysLesbian\fffPos\BillyyL3porgy2\BillyyL3porgy2_5_1.hkx  
+b -Tn BillyyL3porgy2_1_2 ..\BillyysLesbian\fffPos\BillyyL3porgy2\BillyyL3porgy2_1_2.hkx  
+b -Tn BillyyL3porgy2_2_2 ..\BillyysLesbian\fffPos\BillyyL3porgy2\BillyyL3porgy2_2_2.hkx  
+b -Tn BillyyL3porgy2_3_2 ..\BillyysLesbian\fffPos\BillyyL3porgy2\BillyyL3porgy2_3_2.hkx  
+b -Tn BillyyL3porgy2_4_2 ..\BillyysLesbian\fffPos\BillyyL3porgy2\BillyyL3porgy2_4_2.hkx  
+b -Tn BillyyL3porgy2_5_2 ..\BillyysLesbian\fffPos\BillyyL3porgy2\BillyyL3porgy2_5_2.hkx  
+b -Tn BillyyL3porgy3_1_0 ..\BillyysLesbian\fffPos\BillyyL3porgy3\BillyyL3porgy3_1_0.hkx  
+b -Tn BillyyL3porgy3_2_0 ..\BillyysLesbian\fffPos\BillyyL3porgy3\BillyyL3porgy3_2_0.hkx  
+b -Tn BillyyL3porgy3_3_0 ..\BillyysLesbian\fffPos\BillyyL3porgy3\BillyyL3porgy3_3_0.hkx  
+b -Tn BillyyL3porgy3_4_0 ..\BillyysLesbian\fffPos\BillyyL3porgy3\BillyyL3porgy3_4_0.hkx  
+b -Tn BillyyL3porgy3_5_0 ..\BillyysLesbian\fffPos\BillyyL3porgy3\BillyyL3porgy3_5_0.hkx  
+b -Tn BillyyL3porgy3_1_1 ..\BillyysLesbian\fffPos\BillyyL3porgy3\BillyyL3porgy3_1_1.hkx  
+b -Tn BillyyL3porgy3_2_1 ..\BillyysLesbian\fffPos\BillyyL3porgy3\BillyyL3porgy3_2_1.hkx  
+b -Tn BillyyL3porgy3_3_1 ..\BillyysLesbian\fffPos\BillyyL3porgy3\BillyyL3porgy3_3_1.hkx  
+b -Tn BillyyL3porgy3_4_1 ..\BillyysLesbian\fffPos\BillyyL3porgy3\BillyyL3porgy3_4_1.hkx  
+b -Tn BillyyL3porgy3_5_1 ..\BillyysLesbian\fffPos\BillyyL3porgy3\BillyyL3porgy3_5_1.hkx  
+b -Tn BillyyL3porgy3_1_2 ..\BillyysLesbian\fffPos\BillyyL3porgy3\BillyyL3porgy3_1_2.hkx  
+b -Tn BillyyL3porgy3_2_2 ..\BillyysLesbian\fffPos\BillyyL3porgy3\BillyyL3porgy3_2_2.hkx  
+b -Tn BillyyL3porgy3_3_2 ..\BillyysLesbian\fffPos\BillyyL3porgy3\BillyyL3porgy3_3_2.hkx  
+b -Tn BillyyL3porgy3_4_2 ..\BillyysLesbian\fffPos\BillyyL3porgy3\BillyyL3porgy3_4_2.hkx  
+b -Tn BillyyL3porgy3_5_2 ..\BillyysLesbian\fffPos\BillyyL3porgy3\BillyyL3porgy3_5_2.hkx  
+b -Tn BillyyL3porgy4_1_0 ..\BillyysLesbian\fffPos\BillyyL3porgy4\BillyyL3porgy4_1_0.hkx  
+b -Tn BillyyL3porgy4_2_0 ..\BillyysLesbian\fffPos\BillyyL3porgy4\BillyyL3porgy4_2_0.hkx  
+b -Tn BillyyL3porgy4_3_0 ..\BillyysLesbian\fffPos\BillyyL3porgy4\BillyyL3porgy4_3_0.hkx  
+b -Tn BillyyL3porgy4_4_0 ..\BillyysLesbian\fffPos\BillyyL3porgy4\BillyyL3porgy4_4_0.hkx  
+b -Tn BillyyL3porgy4_5_0 ..\BillyysLesbian\fffPos\BillyyL3porgy4\BillyyL3porgy4_5_0.hkx  
+b -Tn BillyyL3porgy4_1_1 ..\BillyysLesbian\fffPos\BillyyL3porgy4\BillyyL3porgy4_1_1.hkx  
+b -Tn BillyyL3porgy4_2_1 ..\BillyysLesbian\fffPos\BillyyL3porgy4\BillyyL3porgy4_2_1.hkx  
+b -Tn BillyyL3porgy4_3_1 ..\BillyysLesbian\fffPos\BillyyL3porgy4\BillyyL3porgy4_3_1.hkx  
+b -Tn BillyyL3porgy4_4_1 ..\BillyysLesbian\fffPos\BillyyL3porgy4\BillyyL3porgy4_4_1.hkx  
+b -Tn BillyyL3porgy4_5_1 ..\BillyysLesbian\fffPos\BillyyL3porgy4\BillyyL3porgy4_5_1.hkx  
+b -Tn BillyyL3porgy4_1_2 ..\BillyysLesbian\fffPos\BillyyL3porgy4\BillyyL3porgy4_1_2.hkx  
+b -Tn BillyyL3porgy4_2_2 ..\BillyysLesbian\fffPos\BillyyL3porgy4\BillyyL3porgy4_2_2.hkx  
+b -Tn BillyyL3porgy4_3_2 ..\BillyysLesbian\fffPos\BillyyL3porgy4\BillyyL3porgy4_3_2.hkx  
+b -Tn BillyyL3porgy4_4_2 ..\BillyysLesbian\fffPos\BillyyL3porgy4\BillyyL3porgy4_4_2.hkx  
+b -Tn BillyyL3porgy4_5_2 ..\BillyysLesbian\fffPos\BillyyL3porgy4\BillyyL3porgy4_5_2.hkx  
+b -Tn BillyyL3porgy5_1_0 ..\BillyysLesbian\fffPos\BillyyL3porgy5\BillyyL3porgy5_1_0.hkx  
+b -Tn BillyyL3porgy5_2_0 ..\BillyysLesbian\fffPos\BillyyL3porgy5\BillyyL3porgy5_2_0.hkx  
+b -Tn BillyyL3porgy5_3_0 ..\BillyysLesbian\fffPos\BillyyL3porgy5\BillyyL3porgy5_3_0.hkx  
+b -Tn BillyyL3porgy5_4_0 ..\BillyysLesbian\fffPos\BillyyL3porgy5\BillyyL3porgy5_4_0.hkx  
+b -Tn BillyyL3porgy5_5_0 ..\BillyysLesbian\fffPos\BillyyL3porgy5\BillyyL3porgy5_5_0.hkx  
+b -Tn BillyyL3porgy5_1_1 ..\BillyysLesbian\fffPos\BillyyL3porgy5\BillyyL3porgy5_1_1.hkx  
+b -Tn BillyyL3porgy5_2_1 ..\BillyysLesbian\fffPos\BillyyL3porgy5\BillyyL3porgy5_2_1.hkx  
+b -Tn BillyyL3porgy5_3_1 ..\BillyysLesbian\fffPos\BillyyL3porgy5\BillyyL3porgy5_3_1.hkx  
+b -Tn BillyyL3porgy5_4_1 ..\BillyysLesbian\fffPos\BillyyL3porgy5\BillyyL3porgy5_4_1.hkx  
+b -Tn BillyyL3porgy5_5_1 ..\BillyysLesbian\fffPos\BillyyL3porgy5\BillyyL3porgy5_5_1.hkx  
+b -Tn BillyyL3porgy5_1_2 ..\BillyysLesbian\fffPos\BillyyL3porgy5\BillyyL3porgy5_1_2.hkx  
+b -Tn BillyyL3porgy5_2_2 ..\BillyysLesbian\fffPos\BillyyL3porgy5\BillyyL3porgy5_2_2.hkx  
+b -Tn BillyyL3porgy5_3_2 ..\BillyysLesbian\fffPos\BillyyL3porgy5\BillyyL3porgy5_3_2.hkx  
+b -Tn BillyyL3porgy5_4_2 ..\BillyysLesbian\fffPos\BillyyL3porgy5\BillyyL3porgy5_4_2.hkx  
+b -Tn BillyyL3porgy5_5_2 ..\BillyysLesbian\fffPos\BillyyL3porgy5\BillyyL3porgy5_5_2.hkx  
+b -Tn BillyyL3porgy6_1_0 ..\BillyysLesbian\fffPos\BillyyL3porgy6\BillyyL3porgy6_1_0.hkx  
+b -Tn BillyyL3porgy6_2_0 ..\BillyysLesbian\fffPos\BillyyL3porgy6\BillyyL3porgy6_2_0.hkx  
+b -Tn BillyyL3porgy6_3_0 ..\BillyysLesbian\fffPos\BillyyL3porgy6\BillyyL3porgy6_3_0.hkx  
+b -Tn BillyyL3porgy6_4_0 ..\BillyysLesbian\fffPos\BillyyL3porgy6\BillyyL3porgy6_4_0.hkx  
+b -Tn BillyyL3porgy6_5_0 ..\BillyysLesbian\fffPos\BillyyL3porgy6\BillyyL3porgy6_5_0.hkx  
+b -Tn BillyyL3porgy6_1_1 ..\BillyysLesbian\fffPos\BillyyL3porgy6\BillyyL3porgy6_1_1.hkx  
+b -Tn BillyyL3porgy6_2_1 ..\BillyysLesbian\fffPos\BillyyL3porgy6\BillyyL3porgy6_2_1.hkx  
+b -Tn BillyyL3porgy6_3_1 ..\BillyysLesbian\fffPos\BillyyL3porgy6\BillyyL3porgy6_3_1.hkx  
+b -Tn BillyyL3porgy6_4_1 ..\BillyysLesbian\fffPos\BillyyL3porgy6\BillyyL3porgy6_4_1.hkx  
+b -Tn BillyyL3porgy6_5_1 ..\BillyysLesbian\fffPos\BillyyL3porgy6\BillyyL3porgy6_5_1.hkx  
+b -Tn BillyyL3porgy6_1_2 ..\BillyysLesbian\fffPos\BillyyL3porgy6\BillyyL3porgy6_1_2.hkx  
+b -Tn BillyyL3porgy6_2_2 ..\BillyysLesbian\fffPos\BillyyL3porgy6\BillyyL3porgy6_2_2.hkx  
+b -Tn BillyyL3porgy6_3_2 ..\BillyysLesbian\fffPos\BillyyL3porgy6\BillyyL3porgy6_3_2.hkx  
+b -Tn BillyyL3porgy6_4_2 ..\BillyysLesbian\fffPos\BillyyL3porgy6\BillyyL3porgy6_4_2.hkx  
+b -Tn BillyyL3porgy6_5_2 ..\BillyysLesbian\fffPos\BillyyL3porgy6\BillyyL3porgy6_5_2.hkx  
+b -Tn BillyyL69_1_0 ..\BillyysLesbian\ffPos\BillyyL69\BillyyL69_1_0.hkx  
+b -Tn BillyyL69_2_0 ..\BillyysLesbian\ffPos\BillyyL69\BillyyL69_2_0.hkx  
+b -Tn BillyyL69_3_0 ..\BillyysLesbian\ffPos\BillyyL69\BillyyL69_3_0.hkx  
+b -Tn BillyyL69_4_0 ..\BillyysLesbian\ffPos\BillyyL69\BillyyL69_4_0.hkx  
+b -Tn BillyyL69_5_0 ..\BillyysLesbian\ffPos\BillyyL69\BillyyL69_5_0.hkx  
+b -Tn BillyyL69_1_1 ..\BillyysLesbian\ffPos\BillyyL69\BillyyL69_1_1.hkx  
+b -Tn BillyyL69_2_1 ..\BillyysLesbian\ffPos\BillyyL69\BillyyL69_2_1.hkx  
+b -Tn BillyyL69_3_1 ..\BillyysLesbian\ffPos\BillyyL69\BillyyL69_3_1.hkx  
+b -Tn BillyyL69_4_1 ..\BillyysLesbian\ffPos\BillyyL69\BillyyL69_4_1.hkx  
+b -Tn BillyyL69_5_1 ..\BillyysLesbian\ffPos\BillyyL69\BillyyL69_5_1.hkx  
+b -Tn BillyyL69side_1_0 ..\BillyysLesbian\ffPos\BillyyL69side\BillyyL69side_1_0.hkx  
+b -Tn BillyyL69side_2_0 ..\BillyysLesbian\ffPos\BillyyL69side\BillyyL69side_2_0.hkx  
+b -Tn BillyyL69side_3_0 ..\BillyysLesbian\ffPos\BillyyL69side\BillyyL69side_3_0.hkx  
+b -Tn BillyyL69side_4_0 ..\BillyysLesbian\ffPos\BillyyL69side\BillyyL69side_4_0.hkx  
+b -Tn BillyyL69side_5_0 ..\BillyysLesbian\ffPos\BillyyL69side\BillyyL69side_5_0.hkx  
+b -Tn BillyyL69side_1_1 ..\BillyysLesbian\ffPos\BillyyL69side\BillyyL69side_1_1.hkx  
+b -Tn BillyyL69side_2_1 ..\BillyysLesbian\ffPos\BillyyL69side\BillyyL69side_2_1.hkx  
+b -Tn BillyyL69side_3_1 ..\BillyysLesbian\ffPos\BillyyL69side\BillyyL69side_3_1.hkx  
+b -Tn BillyyL69side_4_1 ..\BillyysLesbian\ffPos\BillyyL69side\BillyyL69side_4_1.hkx  
+b -Tn BillyyL69side_5_1 ..\BillyysLesbian\ffPos\BillyyL69side\BillyyL69side_5_1.hkx  
+b -Tn BillyyLcunn1_1_0 ..\BillyysLesbian\ffPos\BillyyLcunn1\BillyyLcunn1_1_0.hkx  
+b -Tn BillyyLcunn1_2_0 ..\BillyysLesbian\ffPos\BillyyLcunn1\BillyyLcunn1_2_0.hkx  
+b -Tn BillyyLcunn1_3_0 ..\BillyysLesbian\ffPos\BillyyLcunn1\BillyyLcunn1_3_0.hkx  
+b -Tn BillyyLcunn1_4_0 ..\BillyysLesbian\ffPos\BillyyLcunn1\BillyyLcunn1_4_0.hkx  
+b -Tn BillyyLcunn1_5_0 ..\BillyysLesbian\ffPos\BillyyLcunn1\BillyyLcunn1_5_0.hkx  
+b -Tn BillyyLcunn1_1_1 ..\BillyysLesbian\ffPos\BillyyLcunn1\BillyyLcunn1_1_1.hkx  
+b -Tn BillyyLcunn1_2_1 ..\BillyysLesbian\ffPos\BillyyLcunn1\BillyyLcunn1_2_1.hkx  
+b -Tn BillyyLcunn1_3_1 ..\BillyysLesbian\ffPos\BillyyLcunn1\BillyyLcunn1_3_1.hkx  
+b -Tn BillyyLcunn1_4_1 ..\BillyysLesbian\ffPos\BillyyLcunn1\BillyyLcunn1_4_1.hkx  
+b -Tn BillyyLcunn1_5_1 ..\BillyysLesbian\ffPos\BillyyLcunn1\BillyyLcunn1_5_1.hkx  
+b -Tn BillyyLcunn2_1_0 ..\BillyysLesbian\ffPos\BillyyLcunn2\BillyyLcunn2_1_0.hkx  
+b -Tn BillyyLcunn2_2_0 ..\BillyysLesbian\ffPos\BillyyLcunn2\BillyyLcunn2_2_0.hkx  
+b -Tn BillyyLcunn2_3_0 ..\BillyysLesbian\ffPos\BillyyLcunn2\BillyyLcunn2_3_0.hkx  
+b -Tn BillyyLcunn2_4_0 ..\BillyysLesbian\ffPos\BillyyLcunn2\BillyyLcunn2_4_0.hkx  
+b -Tn BillyyLcunn2_5_0 ..\BillyysLesbian\ffPos\BillyyLcunn2\BillyyLcunn2_5_0.hkx  
+b -Tn BillyyLcunn2_1_1 ..\BillyysLesbian\ffPos\BillyyLcunn2\BillyyLcunn2_1_1.hkx  
+b -Tn BillyyLcunn2_2_1 ..\BillyysLesbian\ffPos\BillyyLcunn2\BillyyLcunn2_2_1.hkx  
+b -Tn BillyyLcunn2_3_1 ..\BillyysLesbian\ffPos\BillyyLcunn2\BillyyLcunn2_3_1.hkx  
+b -Tn BillyyLcunn2_4_1 ..\BillyysLesbian\ffPos\BillyyLcunn2\BillyyLcunn2_4_1.hkx  
+b -Tn BillyyLcunn2_5_1 ..\BillyysLesbian\ffPos\BillyyLcunn2\BillyyLcunn2_5_1.hkx  
+b -Tn BillyyLcunn3_1_0 ..\BillyysLesbian\ffPos\BillyyLcunn3\BillyyLcunn3_1_0.hkx  
+b -Tn BillyyLcunn3_2_0 ..\BillyysLesbian\ffPos\BillyyLcunn3\BillyyLcunn3_2_0.hkx  
+b -Tn BillyyLcunn3_3_0 ..\BillyysLesbian\ffPos\BillyyLcunn3\BillyyLcunn3_3_0.hkx  
+b -Tn BillyyLcunn3_4_0 ..\BillyysLesbian\ffPos\BillyyLcunn3\BillyyLcunn3_4_0.hkx  
+b -Tn BillyyLcunn3_5_0 ..\BillyysLesbian\ffPos\BillyyLcunn3\BillyyLcunn3_5_0.hkx  
+b -Tn BillyyLcunn3_1_1 ..\BillyysLesbian\ffPos\BillyyLcunn3\BillyyLcunn3_1_1.hkx  
+b -Tn BillyyLcunn3_2_1 ..\BillyysLesbian\ffPos\BillyyLcunn3\BillyyLcunn3_2_1.hkx  
+b -Tn BillyyLcunn3_3_1 ..\BillyysLesbian\ffPos\BillyyLcunn3\BillyyLcunn3_3_1.hkx  
+b -Tn BillyyLcunn3_4_1 ..\BillyysLesbian\ffPos\BillyyLcunn3\BillyyLcunn3_4_1.hkx  
+b -Tn BillyyLcunn3_5_1 ..\BillyysLesbian\ffPos\BillyyLcunn3\BillyyLcunn3_5_1.hkx  
+b -Tn BillyyLcunn4_1_0 ..\BillyysLesbian\ffPos\BillyyLcunn4\BillyyLcunn4_1_0.hkx  
+b -Tn BillyyLcunn4_2_0 ..\BillyysLesbian\ffPos\BillyyLcunn4\BillyyLcunn4_2_0.hkx  
+b -Tn BillyyLcunn4_3_0 ..\BillyysLesbian\ffPos\BillyyLcunn4\BillyyLcunn4_3_0.hkx  
+b -Tn BillyyLcunn4_4_0 ..\BillyysLesbian\ffPos\BillyyLcunn4\BillyyLcunn4_4_0.hkx  
+b -Tn BillyyLcunn4_5_0 ..\BillyysLesbian\ffPos\BillyyLcunn4\BillyyLcunn4_5_0.hkx  
+b -Tn BillyyLcunn4_1_1 ..\BillyysLesbian\ffPos\BillyyLcunn4\BillyyLcunn4_1_1.hkx  
+b -Tn BillyyLcunn4_2_1 ..\BillyysLesbian\ffPos\BillyyLcunn4\BillyyLcunn4_2_1.hkx  
+b -Tn BillyyLcunn4_3_1 ..\BillyysLesbian\ffPos\BillyyLcunn4\BillyyLcunn4_3_1.hkx  
+b -Tn BillyyLcunn4_4_1 ..\BillyysLesbian\ffPos\BillyyLcunn4\BillyyLcunn4_4_1.hkx  
+b -Tn BillyyLcunn4_5_1 ..\BillyysLesbian\ffPos\BillyyLcunn4\BillyyLcunn4_5_1.hkx  
+b -Tn BillyyLcunn5_1_0 ..\BillyysLesbian\ffPos\BillyyLcunn5\BillyyLcunn5_1_0.hkx  
+b -Tn BillyyLcunn5_2_0 ..\BillyysLesbian\ffPos\BillyyLcunn5\BillyyLcunn5_2_0.hkx  
+b -Tn BillyyLcunn5_3_0 ..\BillyysLesbian\ffPos\BillyyLcunn5\BillyyLcunn5_3_0.hkx  
+b -Tn BillyyLcunn5_4_0 ..\BillyysLesbian\ffPos\BillyyLcunn5\BillyyLcunn5_4_0.hkx  
+b -Tn BillyyLcunn5_5_0 ..\BillyysLesbian\ffPos\BillyyLcunn5\BillyyLcunn5_5_0.hkx  
+b -Tn BillyyLcunn5_1_1 ..\BillyysLesbian\ffPos\BillyyLcunn5\BillyyLcunn5_1_1.hkx  
+b -Tn BillyyLcunn5_2_1 ..\BillyysLesbian\ffPos\BillyyLcunn5\BillyyLcunn5_2_1.hkx  
+b -Tn BillyyLcunn5_3_1 ..\BillyysLesbian\ffPos\BillyyLcunn5\BillyyLcunn5_3_1.hkx  
+b -Tn BillyyLcunn5_4_1 ..\BillyysLesbian\ffPos\BillyyLcunn5\BillyyLcunn5_4_1.hkx  
+b -Tn BillyyLcunn5_5_1 ..\BillyysLesbian\ffPos\BillyyLcunn5\BillyyLcunn5_5_1.hkx  
+b -Tn BillyyLesdilpile_1_0 ..\BillyysLesbian\ffPos\BillyyLesdilpile\BillyyLesdilpile_1_0.hkx  
+b -Tn BillyyLesdilpile_2_0 ..\BillyysLesbian\ffPos\BillyyLesdilpile\BillyyLesdilpile_2_0.hkx  
+b -Tn BillyyLesdilpile_3_0 ..\BillyysLesbian\ffPos\BillyyLesdilpile\BillyyLesdilpile_3_0.hkx  
+b -Tn BillyyLesdilpile_4_0 ..\BillyysLesbian\ffPos\BillyyLesdilpile\BillyyLesdilpile_4_0.hkx  
+b -Tn BillyyLesdilpile_5_0 ..\BillyysLesbian\ffPos\BillyyLesdilpile\BillyyLesdilpile_5_0.hkx  
+b -o BillyyLesdilpile_1_1 ..\BillyysLesbian\ffPos\BillyyLesdilpile\BillyyLesdilpile_1_1.hkx AOShockyDogDildoB 
+b -o BillyyLesdilpile_2_1 ..\BillyysLesbian\ffPos\BillyyLesdilpile\BillyyLesdilpile_2_1.hkx AOShockyDogDildoB 
+b -o BillyyLesdilpile_3_1 ..\BillyysLesbian\ffPos\BillyyLesdilpile\BillyyLesdilpile_3_1.hkx AOShockyDogDildoB 
+b -o BillyyLesdilpile_4_1 ..\BillyysLesbian\ffPos\BillyyLesdilpile\BillyyLesdilpile_4_1.hkx AOShockyDogDildoB 
+b -o BillyyLesdilpile_5_1 ..\BillyysLesbian\ffPos\BillyyLesdilpile\BillyyLesdilpile_5_1.hkx AOShockyDogDildoB 
+b -o BillyyLesdoubled1_1_0 ..\BillyysLesbian\ffPos\BillyyLesdoubled1\BillyyLesdoubled1_1_0.hkx AO_BDDL 
+b -o BillyyLesdoubled1_2_0 ..\BillyysLesbian\ffPos\BillyyLesdoubled1\BillyyLesdoubled1_2_0.hkx AO_BDDL 
+b -o BillyyLesdoubled1_3_0 ..\BillyysLesbian\ffPos\BillyyLesdoubled1\BillyyLesdoubled1_3_0.hkx AO_BDDL 
+b -o BillyyLesdoubled1_4_0 ..\BillyysLesbian\ffPos\BillyyLesdoubled1\BillyyLesdoubled1_4_0.hkx AO_BDDL 
+b -o BillyyLesdoubled1_5_0 ..\BillyysLesbian\ffPos\BillyyLesdoubled1\BillyyLesdoubled1_5_0.hkx AO_BDDL 
+b -Tn BillyyLesdoubled1_1_1 ..\BillyysLesbian\ffPos\BillyyLesdoubled1\BillyyLesdoubled1_1_1.hkx  
+b -Tn BillyyLesdoubled1_2_1 ..\BillyysLesbian\ffPos\BillyyLesdoubled1\BillyyLesdoubled1_2_1.hkx  
+b -Tn BillyyLesdoubled1_3_1 ..\BillyysLesbian\ffPos\BillyyLesdoubled1\BillyyLesdoubled1_3_1.hkx  
+b -Tn BillyyLesdoubled1_4_1 ..\BillyysLesbian\ffPos\BillyyLesdoubled1\BillyyLesdoubled1_4_1.hkx  
+b -Tn BillyyLesdoubled1_5_1 ..\BillyysLesbian\ffPos\BillyyLesdoubled1\BillyyLesdoubled1_5_1.hkx  
+b -Tn BillyyLesdoubled2_1_0 ..\BillyysLesbian\ffPos\BillyyLesdoubled2\BillyyLesdoubled2_1_0.hkx  
+b -Tn BillyyLesdoubled2_2_0 ..\BillyysLesbian\ffPos\BillyyLesdoubled2\BillyyLesdoubled2_2_0.hkx  
+b -Tn BillyyLesdoubled2_3_0 ..\BillyysLesbian\ffPos\BillyyLesdoubled2\BillyyLesdoubled2_3_0.hkx  
+b -Tn BillyyLesdoubled2_4_0 ..\BillyysLesbian\ffPos\BillyyLesdoubled2\BillyyLesdoubled2_4_0.hkx  
+b -Tn BillyyLesdoubled2_5_0 ..\BillyysLesbian\ffPos\BillyyLesdoubled2\BillyyLesdoubled2_5_0.hkx  
+b -o BillyyLesdoubled2_1_1 ..\BillyysLesbian\ffPos\BillyyLesdoubled2\BillyyLesdoubled2_1_1.hkx AO_BDDL 
+b -o BillyyLesdoubled2_2_1 ..\BillyysLesbian\ffPos\BillyyLesdoubled2\BillyyLesdoubled2_2_1.hkx AO_BDDL 
+b -o BillyyLesdoubled2_3_1 ..\BillyysLesbian\ffPos\BillyyLesdoubled2\BillyyLesdoubled2_3_1.hkx AO_BDDL 
+b -o BillyyLesdoubled2_4_1 ..\BillyysLesbian\ffPos\BillyyLesdoubled2\BillyyLesdoubled2_4_1.hkx AO_BDDL 
+b -o BillyyLesdoubled2_5_1 ..\BillyysLesbian\ffPos\BillyyLesdoubled2\BillyyLesdoubled2_5_1.hkx AO_BDDL 
+b -Tn BillyyLesmdil1_1_0 ..\BillyysLesbian\ffPos\BillyyLesmdil1\BillyyLesmdil1_1_0.hkx  
+b -o BillyyLesmdil1_2_0 ..\BillyysLesbian\ffPos\BillyyLesmdil1\BillyyLesmdil1_2_0.hkx AOMDildoB 
+b -o BillyyLesmdil1_3_0 ..\BillyysLesbian\ffPos\BillyyLesmdil1\BillyyLesmdil1_3_0.hkx AOMDildoA AOMDildoB 
+b -o BillyyLesmdil1_4_0 ..\BillyysLesbian\ffPos\BillyyLesmdil1\BillyyLesmdil1_4_0.hkx AOMDildoA AOMDildoB 
+b -o BillyyLesmdil1_5_0 ..\BillyysLesbian\ffPos\BillyyLesmdil1\BillyyLesmdil1_5_0.hkx AOMDildoA AOMDildoB 
+b -o BillyyLesmdil1_1_1 ..\BillyysLesbian\ffPos\BillyyLesmdil1\BillyyLesmdil1_1_1.hkx AOMBallMNodeL AOMDildoB 
+b -o BillyyLesmdil1_2_1 ..\BillyysLesbian\ffPos\BillyyLesmdil1\BillyyLesmdil1_2_1.hkx AOMBallMNodeL AOMBallMNodeR AOMDildoA 
+b -o BillyyLesmdil1_3_1 ..\BillyysLesbian\ffPos\BillyyLesmdil1\BillyyLesmdil1_3_1.hkx AOMBallMNodeL AOMBallMNodeR 
+b -o BillyyLesmdil1_4_1 ..\BillyysLesbian\ffPos\BillyyLesmdil1\BillyyLesmdil1_4_1.hkx AOMBallMNodeL AOMBallMNodeR 
+b -o BillyyLesmdil1_5_1 ..\BillyysLesbian\ffPos\BillyyLesmdil1\BillyyLesmdil1_5_1.hkx AOMBallMNodeL AOMBallMNodeR 
+b -Tn BillyyLesmdil2_1_0 ..\BillyysLesbian\ffPos\BillyyLesmdil2\BillyyLesmdil2_1_0.hkx  
+b -o BillyyLesmdil2_2_0 ..\BillyysLesbian\ffPos\BillyyLesmdil2\BillyyLesmdil2_2_0.hkx AOMDildoB 
+b -o BillyyLesmdil2_3_0 ..\BillyysLesbian\ffPos\BillyyLesmdil2\BillyyLesmdil2_3_0.hkx AOMDildoB 
+b -o BillyyLesmdil2_4_0 ..\BillyysLesbian\ffPos\BillyyLesmdil2\BillyyLesmdil2_4_0.hkx AOMDildoB 
+b -o BillyyLesmdil2_5_0 ..\BillyysLesbian\ffPos\BillyyLesmdil2\BillyyLesmdil2_5_0.hkx AOMDildoB 
+b -o BillyyLesmdil2_1_1 ..\BillyysLesbian\ffPos\BillyyLesmdil2\BillyyLesmdil2_1_1.hkx AOMBallMNodeL AOMDildoA AOMDildoB 
+b -o BillyyLesmdil2_2_1 ..\BillyysLesbian\ffPos\BillyyLesmdil2\BillyyLesmdil2_2_1.hkx AOMBallMNodeL AOMDildoB 
+b -o BillyyLesmdil2_3_1 ..\BillyysLesbian\ffPos\BillyyLesmdil2\BillyyLesmdil2_3_1.hkx AOMBallMNodeL AOMDildoB 
+b -o BillyyLesmdil2_4_1 ..\BillyysLesbian\ffPos\BillyyLesmdil2\BillyyLesmdil2_4_1.hkx AOMBallMNodeL AOMDildoB 
+b -o BillyyLesmdil2_5_1 ..\BillyysLesbian\ffPos\BillyyLesmdil2\BillyyLesmdil2_5_1.hkx AOMBallMNodeL AOMDildoB 
+b -Tn BillyyLesmdil3_1_0 ..\BillyysLesbian\ffPos\BillyyLesmdil3\BillyyLesmdil3_1_0.hkx  
+b -o BillyyLesmdil3_2_0 ..\BillyysLesbian\ffPos\BillyyLesmdil3\BillyyLesmdil3_2_0.hkx AOMDildoB 
+b -o BillyyLesmdil3_3_0 ..\BillyysLesbian\ffPos\BillyyLesmdil3\BillyyLesmdil3_3_0.hkx AOMDildoB 
+b -o BillyyLesmdil3_4_0 ..\BillyysLesbian\ffPos\BillyyLesmdil3\BillyyLesmdil3_4_0.hkx AOMDildoB 
+b -o BillyyLesmdil3_5_0 ..\BillyysLesbian\ffPos\BillyyLesmdil3\BillyyLesmdil3_5_0.hkx AOMDildoB 
+b -o BillyyLesmdil3_1_1 ..\BillyysLesbian\ffPos\BillyyLesmdil3\BillyyLesmdil3_1_1.hkx AOMBallMNodeR AOMDildoA AOMDildoB 
+b -o BillyyLesmdil3_2_1 ..\BillyysLesbian\ffPos\BillyyLesmdil3\BillyyLesmdil3_2_1.hkx AOMBallMNodeR AOMDildoB 
+b -o BillyyLesmdil3_3_1 ..\BillyysLesbian\ffPos\BillyyLesmdil3\BillyyLesmdil3_3_1.hkx AOMBallMNodeR AOMDildoB 
+b -o BillyyLesmdil3_4_1 ..\BillyysLesbian\ffPos\BillyyLesmdil3\BillyyLesmdil3_4_1.hkx AOMBallMNodeR AOMDildoB 
+b -o BillyyLesmdil3_5_1 ..\BillyysLesbian\ffPos\BillyyLesmdil3\BillyyLesmdil3_5_1.hkx AOMBallMNodeR AOMDildoB 
+b -Tn BillyyLfing1_1_0 ..\BillyysLesbian\ffPos\BillyyLfing1\BillyyLfing1_1_0.hkx  
+b -Tn BillyyLfing1_2_0 ..\BillyysLesbian\ffPos\BillyyLfing1\BillyyLfing1_2_0.hkx  
+b -Tn BillyyLfing1_3_0 ..\BillyysLesbian\ffPos\BillyyLfing1\BillyyLfing1_3_0.hkx  
+b -Tn BillyyLfing1_4_0 ..\BillyysLesbian\ffPos\BillyyLfing1\BillyyLfing1_4_0.hkx  
+b -Tn BillyyLfing1_5_0 ..\BillyysLesbian\ffPos\BillyyLfing1\BillyyLfing1_5_0.hkx  
+b -Tn BillyyLfing1_1_1 ..\BillyysLesbian\ffPos\BillyyLfing1\BillyyLfing1_1_1.hkx  
+b -Tn BillyyLfing1_2_1 ..\BillyysLesbian\ffPos\BillyyLfing1\BillyyLfing1_2_1.hkx  
+b -Tn BillyyLfing1_3_1 ..\BillyysLesbian\ffPos\BillyyLfing1\BillyyLfing1_3_1.hkx  
+b -Tn BillyyLfing1_4_1 ..\BillyysLesbian\ffPos\BillyyLfing1\BillyyLfing1_4_1.hkx  
+b -Tn BillyyLfing1_5_1 ..\BillyysLesbian\ffPos\BillyyLfing1\BillyyLfing1_5_1.hkx  
+b -Tn BillyyLfing2_1_0 ..\BillyysLesbian\ffPos\BillyyLfing2\BillyyLfing2_1_0.hkx  
+b -Tn BillyyLfing2_2_0 ..\BillyysLesbian\ffPos\BillyyLfing2\BillyyLfing2_2_0.hkx  
+b -Tn BillyyLfing2_3_0 ..\BillyysLesbian\ffPos\BillyyLfing2\BillyyLfing2_3_0.hkx  
+b -Tn BillyyLfing2_4_0 ..\BillyysLesbian\ffPos\BillyyLfing2\BillyyLfing2_4_0.hkx  
+b -Tn BillyyLfing2_5_0 ..\BillyysLesbian\ffPos\BillyyLfing2\BillyyLfing2_5_0.hkx  
+b -Tn BillyyLfing2_1_1 ..\BillyysLesbian\ffPos\BillyyLfing2\BillyyLfing2_1_1.hkx  
+b -Tn BillyyLfing2_2_1 ..\BillyysLesbian\ffPos\BillyyLfing2\BillyyLfing2_2_1.hkx  
+b -Tn BillyyLfing2_3_1 ..\BillyysLesbian\ffPos\BillyyLfing2\BillyyLfing2_3_1.hkx  
+b -Tn BillyyLfing2_4_1 ..\BillyysLesbian\ffPos\BillyyLfing2\BillyyLfing2_4_1.hkx  
+b -Tn BillyyLfing2_5_1 ..\BillyysLesbian\ffPos\BillyyLfing2\BillyyLfing2_5_1.hkx  
+b -Tn BillyyLfing3_1_0 ..\BillyysLesbian\ffPos\BillyyLfing3\BillyyLfing3_1_0.hkx  
+b -Tn BillyyLfing3_2_0 ..\BillyysLesbian\ffPos\BillyyLfing3\BillyyLfing3_2_0.hkx  
+b -Tn BillyyLfing3_3_0 ..\BillyysLesbian\ffPos\BillyyLfing3\BillyyLfing3_3_0.hkx  
+b -Tn BillyyLfing3_4_0 ..\BillyysLesbian\ffPos\BillyyLfing3\BillyyLfing3_4_0.hkx  
+b -Tn BillyyLfing3_5_0 ..\BillyysLesbian\ffPos\BillyyLfing3\BillyyLfing3_5_0.hkx  
+b -Tn BillyyLfing3_1_1 ..\BillyysLesbian\ffPos\BillyyLfing3\BillyyLfing3_1_1.hkx  
+b -Tn BillyyLfing3_2_1 ..\BillyysLesbian\ffPos\BillyyLfing3\BillyyLfing3_2_1.hkx  
+b -Tn BillyyLfing3_3_1 ..\BillyysLesbian\ffPos\BillyyLfing3\BillyyLfing3_3_1.hkx  
+b -Tn BillyyLfing3_4_1 ..\BillyysLesbian\ffPos\BillyyLfing3\BillyyLfing3_4_1.hkx  
+b -Tn BillyyLfing3_5_1 ..\BillyysLesbian\ffPos\BillyyLfing3\BillyyLfing3_5_1.hkx  
+b -Tn BillyyLfing4_1_0 ..\BillyysLesbian\ffPos\BillyyLfing4\BillyyLfing4_1_0.hkx  
+b -Tn BillyyLfing4_2_0 ..\BillyysLesbian\ffPos\BillyyLfing4\BillyyLfing4_2_0.hkx  
+b -Tn BillyyLfing4_3_0 ..\BillyysLesbian\ffPos\BillyyLfing4\BillyyLfing4_3_0.hkx  
+b -Tn BillyyLfing4_4_0 ..\BillyysLesbian\ffPos\BillyyLfing4\BillyyLfing4_4_0.hkx  
+b -Tn BillyyLfing4_5_0 ..\BillyysLesbian\ffPos\BillyyLfing4\BillyyLfing4_5_0.hkx  
+b -Tn BillyyLfing4_1_1 ..\BillyysLesbian\ffPos\BillyyLfing4\BillyyLfing4_1_1.hkx  
+b -Tn BillyyLfing4_2_1 ..\BillyysLesbian\ffPos\BillyyLfing4\BillyyLfing4_2_1.hkx  
+b -Tn BillyyLfing4_3_1 ..\BillyysLesbian\ffPos\BillyyLfing4\BillyyLfing4_3_1.hkx  
+b -Tn BillyyLfing4_4_1 ..\BillyysLesbian\ffPos\BillyyLfing4\BillyyLfing4_4_1.hkx  
+b -Tn BillyyLfing4_5_1 ..\BillyysLesbian\ffPos\BillyyLfing4\BillyyLfing4_5_1.hkx  
+b -Tn BillyyLfing5_1_0 ..\BillyysLesbian\ffPos\BillyyLfing5\BillyyLfing5_1_0.hkx  
+b -Tn BillyyLfing5_2_0 ..\BillyysLesbian\ffPos\BillyyLfing5\BillyyLfing5_2_0.hkx  
+b -Tn BillyyLfing5_3_0 ..\BillyysLesbian\ffPos\BillyyLfing5\BillyyLfing5_3_0.hkx  
+b -Tn BillyyLfing5_4_0 ..\BillyysLesbian\ffPos\BillyyLfing5\BillyyLfing5_4_0.hkx  
+b -Tn BillyyLfing5_5_0 ..\BillyysLesbian\ffPos\BillyyLfing5\BillyyLfing5_5_0.hkx  
+b -Tn BillyyLfing5_1_1 ..\BillyysLesbian\ffPos\BillyyLfing5\BillyyLfing5_1_1.hkx  
+b -Tn BillyyLfing5_2_1 ..\BillyysLesbian\ffPos\BillyyLfing5\BillyyLfing5_2_1.hkx  
+b -Tn BillyyLfing5_3_1 ..\BillyysLesbian\ffPos\BillyyLfing5\BillyyLfing5_3_1.hkx  
+b -Tn BillyyLfing5_4_1 ..\BillyysLesbian\ffPos\BillyyLfing5\BillyyLfing5_4_1.hkx  
+b -Tn BillyyLfing5_5_1 ..\BillyysLesbian\ffPos\BillyyLfing5\BillyyLfing5_5_1.hkx  
+b -Tn BillyyLskiss1_1_0 ..\BillyysLesbian\ffPos\BillyyLskiss1\BillyyLskiss1_1_0.hkx  
+b -Tn BillyyLskiss1_2_0 ..\BillyysLesbian\ffPos\BillyyLskiss1\BillyyLskiss1_2_0.hkx  
+b -Tn BillyyLskiss1_3_0 ..\BillyysLesbian\ffPos\BillyyLskiss1\BillyyLskiss1_3_0.hkx  
+b -Tn BillyyLskiss1_4_0 ..\BillyysLesbian\ffPos\BillyyLskiss1\BillyyLskiss1_4_0.hkx  
+b -Tn BillyyLskiss1_5_0 ..\BillyysLesbian\ffPos\BillyyLskiss1\BillyyLskiss1_5_0.hkx  
+b -Tn BillyyLskiss1_1_1 ..\BillyysLesbian\ffPos\BillyyLskiss1\BillyyLskiss1_1_1.hkx  
+b -Tn BillyyLskiss1_2_1 ..\BillyysLesbian\ffPos\BillyyLskiss1\BillyyLskiss1_2_1.hkx  
+b -Tn BillyyLskiss1_3_1 ..\BillyysLesbian\ffPos\BillyyLskiss1\BillyyLskiss1_3_1.hkx  
+b -Tn BillyyLskiss1_4_1 ..\BillyysLesbian\ffPos\BillyyLskiss1\BillyyLskiss1_4_1.hkx  
+b -Tn BillyyLskiss1_5_1 ..\BillyysLesbian\ffPos\BillyyLskiss1\BillyyLskiss1_5_1.hkx  
+b -Tn BillyyLtrib1_1_0 ..\BillyysLesbian\ffPos\BillyyLtrib1\BillyyLtrib1_1_0.hkx  
+b -Tn BillyyLtrib1_2_0 ..\BillyysLesbian\ffPos\BillyyLtrib1\BillyyLtrib1_2_0.hkx  
+b -Tn BillyyLtrib1_3_0 ..\BillyysLesbian\ffPos\BillyyLtrib1\BillyyLtrib1_3_0.hkx  
+b -Tn BillyyLtrib1_4_0 ..\BillyysLesbian\ffPos\BillyyLtrib1\BillyyLtrib1_4_0.hkx  
+b -Tn BillyyLtrib1_5_0 ..\BillyysLesbian\ffPos\BillyyLtrib1\BillyyLtrib1_5_0.hkx  
+b -Tn BillyyLtrib1_1_1 ..\BillyysLesbian\ffPos\BillyyLtrib1\BillyyLtrib1_1_1.hkx  
+b -Tn BillyyLtrib1_2_1 ..\BillyysLesbian\ffPos\BillyyLtrib1\BillyyLtrib1_2_1.hkx  
+b -Tn BillyyLtrib1_3_1 ..\BillyysLesbian\ffPos\BillyyLtrib1\BillyyLtrib1_3_1.hkx  
+b -Tn BillyyLtrib1_4_1 ..\BillyysLesbian\ffPos\BillyyLtrib1\BillyyLtrib1_4_1.hkx  
+b -Tn BillyyLtrib1_5_1 ..\BillyysLesbian\ffPos\BillyyLtrib1\BillyyLtrib1_5_1.hkx  
+b -Tn BillyyLtrib2_1_0 ..\BillyysLesbian\ffPos\BillyyLtrib2\BillyyLtrib2_1_0.hkx  
+b -Tn BillyyLtrib2_2_0 ..\BillyysLesbian\ffPos\BillyyLtrib2\BillyyLtrib2_2_0.hkx  
+b -Tn BillyyLtrib2_3_0 ..\BillyysLesbian\ffPos\BillyyLtrib2\BillyyLtrib2_3_0.hkx  
+b -Tn BillyyLtrib2_4_0 ..\BillyysLesbian\ffPos\BillyyLtrib2\BillyyLtrib2_4_0.hkx  
+b -Tn BillyyLtrib2_5_0 ..\BillyysLesbian\ffPos\BillyyLtrib2\BillyyLtrib2_5_0.hkx  
+b -Tn BillyyLtrib2_1_1 ..\BillyysLesbian\ffPos\BillyyLtrib2\BillyyLtrib2_1_1.hkx  
+b -Tn BillyyLtrib2_2_1 ..\BillyysLesbian\ffPos\BillyyLtrib2\BillyyLtrib2_2_1.hkx  
+b -Tn BillyyLtrib2_3_1 ..\BillyysLesbian\ffPos\BillyyLtrib2\BillyyLtrib2_3_1.hkx  
+b -Tn BillyyLtrib2_4_1 ..\BillyysLesbian\ffPos\BillyyLtrib2\BillyyLtrib2_4_1.hkx  
+b -Tn BillyyLtrib2_5_1 ..\BillyysLesbian\ffPos\BillyyLtrib2\BillyyLtrib2_5_1.hkx  

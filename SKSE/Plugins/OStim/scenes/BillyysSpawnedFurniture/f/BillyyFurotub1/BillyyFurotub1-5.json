@@ -1,0 +1,37 @@
+{
+    "name": "Billyy FuroTub 1",
+    "modpack": "BillyyAnimations",
+    "length": 8.4,
+    "destination": "BillyyFurotub1-4",
+    "speeds": [
+        {
+            "animation": "BillyyFurotub1_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginaltoying",
+            "actor": 0
+        },
+        {
+            "type": "analtoying",
+            "actor": 0
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

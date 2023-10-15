@@ -1,0 +1,33 @@
+{
+    "name": "Billyy M Kneeling Masutrbation 1",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyMkneelmast1-4",
+    "speeds": [
+        {
+            "animation": "BillyyMkneelmast1_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "malemasturbation",
+            "actor": 0
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

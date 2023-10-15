@@ -1,0 +1,42 @@
+{
+    "name": "Billyy Kneeling Blowjob 2",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyKneelbj2-4",
+    "speeds": [
+        {
+            "animation": "BillyyKneelbj2_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -5,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "deepthroat",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

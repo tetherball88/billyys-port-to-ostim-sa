@@ -1,0 +1,57 @@
+{
+    "name": "Billyy 3p MMF Swapping Double Vag Service",
+    "modpack": "BillyyAnimations",
+    "length": 21.166666,
+    "destination": "Billyy3pdp4-5",
+    "speeds": [
+        {
+            "animation": "Billyy3pdp4_4"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 5,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback"
+            ]
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 2,
+            "performer": 2
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 1,
+            "target": 2,
+            "performer": 2
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

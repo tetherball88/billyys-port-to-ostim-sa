@@ -1,0 +1,48 @@
+{
+    "name": "Billyy Laying Belly Facefuck",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyLaybff-4",
+    "speeds": [
+        {
+            "animation": "BillyyLaybff_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 5,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingfront"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghead",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "deepthroat",
+            "actor": 1,
+            "target": 0,
+            "performer": 0
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

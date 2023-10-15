@@ -1,0 +1,53 @@
+{
+    "name": "Billyy Laying 69 2",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyLay692-4",
+    "speeds": [
+        {
+            "animation": "BillyyLay692_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 8,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "allfours"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghead",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingarm",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "deepthroat",
+            "actor": 1,
+            "target": 0,
+            "performer": 0
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

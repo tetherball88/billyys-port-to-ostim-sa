@@ -1,0 +1,83 @@
+{
+    "name": "Billyy 4p Gangbang MMMF 2",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "Billyy4pgb2-4",
+    "speeds": [
+        {
+            "animation": "Billyy4pgb2_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 4,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 3,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 4,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "facial",
+            "actor": 0,
+            "target": 3
+        },
+        {
+            "type": "facial",
+            "actor": 1,
+            "target": 3
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 2,
+            "target": 3
+        },
+        {
+            "type": "handjob",
+            "actor": 3,
+            "target": 0
+        },
+        {
+            "type": "handjob",
+            "actor": 3,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

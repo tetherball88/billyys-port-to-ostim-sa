@@ -1,0 +1,45 @@
+{
+    "name": "Billyy Laying Prone",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyLayprone-4",
+    "speeds": [
+        {
+            "animation": "BillyyLayprone_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingfront",
+                "facingaway",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "prone",
+        "transition"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Billyy Alchemy WorkBench Fuck",
+    "modpack": "BillyyAnimations",
+    "length": 8.4,
+    "destination": "BillyyAlchemyworkbenchfuck-5",
+    "speeds": [
+        {
+            "animation": "BillyyAlchemyworkbenchfuck_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "bendover",
+                "facingaway",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

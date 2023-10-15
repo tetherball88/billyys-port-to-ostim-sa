@@ -1,0 +1,48 @@
+{
+    "name": "Billyy Rimjob Doggy",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyRjdog-4",
+    "speeds": [
+        {
+            "animation": "BillyyRjdog_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "allfours",
+                "facingaway",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "handjob",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "rimjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

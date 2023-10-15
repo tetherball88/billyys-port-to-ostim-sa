@@ -1,0 +1,54 @@
+{
+    "name": "Billyy Standing Thighfuck",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyySthighf-4",
+    "speeds": [
+        {
+            "animation": "BillyySthighf_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "thighjob",
+            "actor": 1,
+            "target": 0,
+            "performer": 0
+        },
+        {
+            "type": "hug",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hug",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

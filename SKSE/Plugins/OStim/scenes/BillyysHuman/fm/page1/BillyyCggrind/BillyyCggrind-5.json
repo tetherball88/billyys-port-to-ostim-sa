@@ -1,0 +1,50 @@
+{
+    "name": "Billyy Cowgirl Grinding",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyCggrind-4",
+    "speeds": [
+        {
+            "animation": "BillyyCggrind_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1,
+            "performer": 1
+        },
+        {
+            "type": "holdinghand",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "billyy",
+        "cowgirl",
+        "transition"
+    ]
+}

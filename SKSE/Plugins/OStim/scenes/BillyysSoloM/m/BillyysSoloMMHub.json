@@ -1,0 +1,37 @@
+{
+    "name": "BillyysSoloMMHub",
+    "modpack": "BillyysSoloM",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "OStim1PStandingM"
+        }
+    ],
+    "navigations": [
+        {
+            "origin": "OStim1PStandingM",
+            "description": "BillyysSoloMMHub"
+        },
+        {
+            "destination": "OStim1PStandingM",
+            "description": "Return",
+            "icon": "OStim/symbols/return",
+            "priority": -1000
+        }
+    ],
+    "tags": [
+        "idle",
+        "intro"
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "noRandomSelection": true
+}

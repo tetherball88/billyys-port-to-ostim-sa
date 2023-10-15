@@ -1,0 +1,49 @@
+{
+    "name": "Billyy Standing Blowjob",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyStandbj-5",
+    "speeds": [
+        {
+            "animation": "BillyyStandbj_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 6,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "bendover"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "deepthroat",
+            "actor": 1,
+            "target": 0,
+            "performer": 0
+        },
+        {
+            "type": "holdinghead",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

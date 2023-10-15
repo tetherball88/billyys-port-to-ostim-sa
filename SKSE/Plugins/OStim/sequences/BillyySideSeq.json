@@ -1,0 +1,25 @@
+{
+    "scenes": [
+        {
+            "id": "BillyySide-1",
+            "duration": 8
+        },
+        {
+            "id": "BillyySide-2",
+            "duration": 8
+        },
+        {
+            "id": "BillyySide-3",
+            "duration": 8
+        },
+        {
+            "id": "BillyySide-4",
+            "duration": 8
+        },
+        {
+            "id": "BillyySide-5",
+            "duration": 8.333333
+        }
+    ],
+    "tags": []
+}

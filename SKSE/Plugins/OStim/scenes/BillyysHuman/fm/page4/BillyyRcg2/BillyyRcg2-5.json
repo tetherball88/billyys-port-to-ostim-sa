@@ -1,0 +1,53 @@
+{
+    "name": "Billyy Reverse Cowgirl 2",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyRcg2-4",
+    "speeds": [
+        {
+            "animation": "BillyyRcg2_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "onbottom",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "ontop",
+                "facingaway",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdingbody",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1,
+            "performer": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "reversecowgirl",
+        "transition"
+    ]
+}

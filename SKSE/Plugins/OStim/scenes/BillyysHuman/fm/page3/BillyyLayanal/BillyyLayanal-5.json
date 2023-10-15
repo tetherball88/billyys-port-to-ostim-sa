@@ -1,0 +1,45 @@
+{
+    "name": "Billyy Laying Anal",
+    "modpack": "BillyyAnimations",
+    "length": 8,
+    "destination": "BillyyLayanal-4",
+    "speeds": [
+        {
+            "animation": "BillyyLayanal_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 7,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "allfours",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingfront",
+                "facingaway",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "analsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "prone",
+        "transition"
+    ]
+}

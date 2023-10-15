@@ -1,0 +1,30 @@
+b -o BillyyMalemmug_1_0 ..\BillyysSoloM\mPos\BillyyMalemmug\BillyyMalemmug_1_0.hkx AOMugB 
+b -o BillyyMalemmug_2_0 ..\BillyysSoloM\mPos\BillyyMalemmug\BillyyMalemmug_2_0.hkx AOMugB 
+b -o BillyyMalemmug_3_0 ..\BillyysSoloM\mPos\BillyyMalemmug\BillyyMalemmug_3_0.hkx AOMugB 
+b -o BillyyMalemmug_4_0 ..\BillyysSoloM\mPos\BillyyMalemmug\BillyyMalemmug_4_0.hkx AOMugB 
+b -o BillyyMalemmug_5_0 ..\BillyysSoloM\mPos\BillyyMalemmug\BillyyMalemmug_5_0.hkx AOMugB 
+b -Tn BillyyMkneelmast1_1_0 ..\BillyysSoloM\mPos\BillyyMkneelmast1\BillyyMkneelmast1_1_0.hkx  
+b -Tn BillyyMkneelmast1_2_0 ..\BillyysSoloM\mPos\BillyyMkneelmast1\BillyyMkneelmast1_2_0.hkx  
+b -Tn BillyyMkneelmast1_3_0 ..\BillyysSoloM\mPos\BillyyMkneelmast1\BillyyMkneelmast1_3_0.hkx  
+b -Tn BillyyMkneelmast1_4_0 ..\BillyysSoloM\mPos\BillyyMkneelmast1\BillyyMkneelmast1_4_0.hkx  
+b -Tn BillyyMkneelmast1_5_0 ..\BillyysSoloM\mPos\BillyyMkneelmast1\BillyyMkneelmast1_5_0.hkx  
+b -Tn BillyyMkneelmast2_1_0 ..\BillyysSoloM\mPos\BillyyMkneelmast2\BillyyMkneelmast2_1_0.hkx  
+b -Tn BillyyMkneelmast2_2_0 ..\BillyysSoloM\mPos\BillyyMkneelmast2\BillyyMkneelmast2_2_0.hkx  
+b -Tn BillyyMkneelmast2_3_0 ..\BillyysSoloM\mPos\BillyyMkneelmast2\BillyyMkneelmast2_3_0.hkx  
+b -Tn BillyyMkneelmast2_4_0 ..\BillyysSoloM\mPos\BillyyMkneelmast2\BillyyMkneelmast2_4_0.hkx  
+b -Tn BillyyMkneelmast2_5_0 ..\BillyysSoloM\mPos\BillyyMkneelmast2\BillyyMkneelmast2_5_0.hkx  
+b -Tn BillyyMlaymast1_1_0 ..\BillyysSoloM\mPos\BillyyMlaymast1\BillyyMlaymast1_1_0.hkx  
+b -Tn BillyyMlaymast1_2_0 ..\BillyysSoloM\mPos\BillyyMlaymast1\BillyyMlaymast1_2_0.hkx  
+b -Tn BillyyMlaymast1_3_0 ..\BillyysSoloM\mPos\BillyyMlaymast1\BillyyMlaymast1_3_0.hkx  
+b -Tn BillyyMlaymast1_4_0 ..\BillyysSoloM\mPos\BillyyMlaymast1\BillyyMlaymast1_4_0.hkx  
+b -Tn BillyyMlaymast1_5_0 ..\BillyysSoloM\mPos\BillyyMlaymast1\BillyyMlaymast1_5_0.hkx  
+b -Tn BillyyMstandmast1_1_0 ..\BillyysSoloM\mPos\BillyyMstandmast1\BillyyMstandmast1_1_0.hkx  
+b -Tn BillyyMstandmast1_2_0 ..\BillyysSoloM\mPos\BillyyMstandmast1\BillyyMstandmast1_2_0.hkx  
+b -Tn BillyyMstandmast1_3_0 ..\BillyysSoloM\mPos\BillyyMstandmast1\BillyyMstandmast1_3_0.hkx  
+b -Tn BillyyMstandmast1_4_0 ..\BillyysSoloM\mPos\BillyyMstandmast1\BillyyMstandmast1_4_0.hkx  
+b -Tn BillyyMstandmast1_5_0 ..\BillyysSoloM\mPos\BillyyMstandmast1\BillyyMstandmast1_5_0.hkx  
+b -Tn BillyyMstandmast2_1_0 ..\BillyysSoloM\mPos\BillyyMstandmast2\BillyyMstandmast2_1_0.hkx  
+b -Tn BillyyMstandmast2_2_0 ..\BillyysSoloM\mPos\BillyyMstandmast2\BillyyMstandmast2_2_0.hkx  
+b -Tn BillyyMstandmast2_3_0 ..\BillyysSoloM\mPos\BillyyMstandmast2\BillyyMstandmast2_3_0.hkx  
+b -Tn BillyyMstandmast2_4_0 ..\BillyysSoloM\mPos\BillyyMstandmast2\BillyyMstandmast2_4_0.hkx  
+b -Tn BillyyMstandmast2_5_0 ..\BillyysSoloM\mPos\BillyyMstandmast2\BillyyMstandmast2_5_0.hkx  

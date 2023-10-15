@@ -1,0 +1,87 @@
+{
+    "name": "Billyy 3p FFM Missionary",
+    "modpack": "BillyyAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "Billyy3pffmmis-5",
+            "description": "Next(climax)",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "Billyy3pffmmis-3",
+            "description": "Back",
+            "icon": "OStim/symbols/arrow_left"
+        },
+        {
+            "destination": "BillyysOrgyFfmHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "Billyy3pffmmis_4"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ],
+            "autoTransitions": {
+                "climax": "Billyy3pffmmis-5"
+            }
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "onbottom"
+            ],
+            "autoTransitions": {
+                "climax": "Billyy3pffmmis-5"
+            }
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "allfours",
+                "ontop"
+            ],
+            "autoTransitions": {
+                "climax": "Billyy3pffmmis-5"
+            }
+        }
+    ],
+    "actions": [
+        {
+            "type": "grindingpenis",
+            "actor": 1,
+            "target": 0,
+            "performer": 0
+        },
+        {
+            "type": "grindingpenis",
+            "actor": 2,
+            "target": 0,
+            "performer": 0
+        },
+        {
+            "type": "hug",
+            "actor": 1,
+            "target": 2
+        }
+    ],
+    "tags": [
+        "billyy"
+    ]
+}

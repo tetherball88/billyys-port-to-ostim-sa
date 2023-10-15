@@ -1,0 +1,46 @@
+{
+    "name": "Billyy Behind Meme",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyBehmeme-4",
+    "speeds": [
+        {
+            "animation": "BillyyBehmeme_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -2,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "allfours",
+                "facingaway",
+                "spreadlegs",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "doggystyle",
+        "transition"
+    ]
+}

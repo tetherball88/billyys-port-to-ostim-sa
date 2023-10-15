@@ -1,0 +1,48 @@
+{
+    "name": "Billyy Squatting Blowjob",
+    "modpack": "BillyyAnimations",
+    "length": 8,
+    "destination": "BillyySquatbj-4",
+    "speeds": [
+        {
+            "animation": "BillyySquatbj_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "blowjob",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "rubbingclitoris",
+            "actor": 1,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

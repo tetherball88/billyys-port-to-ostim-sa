@@ -1,0 +1,90 @@
+{
+    "name": "Billyy 4p Gangbang MMMF 7",
+    "modpack": "BillyyAnimations",
+    "length": 8,
+    "destination": "Billyy4pgang7-5",
+    "speeds": [
+        {
+            "animation": "Billyy4pgang7_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "bendover",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 3
+        },
+        {
+            "type": "cumonchest",
+            "actor": 1,
+            "target": 3
+        },
+        {
+            "type": "facial",
+            "actor": 1,
+            "target": 3
+        },
+        {
+            "type": "holdinghead",
+            "actor": 2,
+            "target": 3
+        },
+        {
+            "type": "blowjob",
+            "actor": 3,
+            "target": 2,
+            "performer": 2
+        },
+        {
+            "type": "handjob",
+            "actor": 3,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}
