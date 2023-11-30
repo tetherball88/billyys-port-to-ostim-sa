@@ -1,0 +1,68 @@
+{
+    "name": "Billyy Enchanting WorkBench Fuck",
+    "modpack": "BillyyAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "BillyyAfEnchantingworkbenchfuck-4",
+            "description": "Next",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "BillyyAfEnchantingworkbenchfuck-2",
+            "description": "Back",
+            "icon": "OStim/symbols/arrow_left"
+        },
+        {
+            "destination": "BillyysAdaptedFmTableHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "BillyyAfEnchantingworkbenchfuck_3"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "bendover"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "analtoying",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingleg",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy"
+    ],
+    "furniture": "table"
+}

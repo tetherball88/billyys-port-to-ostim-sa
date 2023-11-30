@@ -1,0 +1,47 @@
+{
+    "name": "Billyy FuroTub 2",
+    "modpack": "BillyyAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "BillyyAfFurotub2-3",
+            "description": "Next",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "BillyyAfFurotub2-1",
+            "description": "Back",
+            "icon": "OStim/symbols/arrow_left"
+        },
+        {
+            "destination": "BillyysAdaptedFHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "BillyyAfFurotub2_2"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "mdildovaginal",
+            "actor": 0
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "billyy"
+    ]
+}

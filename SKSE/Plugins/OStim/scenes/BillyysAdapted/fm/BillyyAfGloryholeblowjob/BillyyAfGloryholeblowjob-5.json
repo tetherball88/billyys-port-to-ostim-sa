@@ -1,0 +1,43 @@
+{
+    "name": "Billyy GloryHole Blowjob",
+    "modpack": "BillyyAnimations",
+    "length": 8,
+    "destination": "BillyyAfGloryholeblowjob-4",
+    "speeds": [
+        {
+            "animation": "BillyyAfGloryholeblowjob_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "deepthroat",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

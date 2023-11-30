@@ -96,15 +96,58 @@ Safe to play in Ostim's auto mode;</description>
 								<type name="Optional"/> 
 							</typeDescriptor> 
 						</plugin> 
-						<plugin name="Spawned Furniture"> 
-							<description>~49 animation scenes;&#13;&#10;
+						<plugin name="Adapted or Spawned Furniture"> 
+							<description>You'll select on next step if you want spawned furniture or adapted to regular furniture&#13;&#10;
+&#13;&#10;
+~49 animation scenes;&#13;&#10;
 Designed for heterosexual actors&#13;&#10;
 Animations are excluded from Ostim's auto mode;&#13;&#10;
 Animations designed for these set of female and male actors: F, FM, FMM</description> 
-							<image path="fomod\pictures\billyy_obj.jpg" /> 
+							<image path="fomod\pictures\billy_adapted_vs_spawned.jpg" /> 
 							<conditionFlags> 
 								<flag name="RequiresObjects">On</flag>
+								<flag name="AdaptedOrSpawned">On</flag> 
 							</conditionFlags> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+					</plugins> 
+				</group> 
+			</optionalFileGroups> 
+		</installStep> 
+		<installStep name="Adapted or Spawned Furniture"> 
+			<visible> 
+				<dependencies operator="And"> 
+						<flagDependency flag="AdaptedOrSpawned" value="On"/> 
+				</dependencies> 
+			</visible> 
+			<optionalFileGroups order="Explicit"> 
+				<group name="Adapted or spawned" type="SelectExactlyOne"> 
+					<plugins order="Explicit"> 
+						<plugin name="Adapted"> 
+							<description>All animations from Spawned Furniture but adapted for regular furniture.&#13;&#10;
+&#13;&#10;
+Why use this? More choices in OStims furniture scenes(chair, table) and other modders could use bigger diversity of animations with furnitures.&#13;&#10;
+&#13;&#10;
+You don't need both modules - they have same animations. Save your animation max count :)&#13;&#10;
+&#13;&#10;
+Not all animations can be adapted to regular Skyrim furniture, sometimes you'll see that actor might be clinging to something which isn't there(bench backrest, or in case with throne actor might be clinging to top of throne backrest which in Ostim furniture is regular chair which doesn't have tall backreset)&#13;&#10;
+&#13;&#10;
+Animations which can't be aligned to regular furniture(Billyy FuroTub 1, Billyy FuroTub 2, Billyy GloryHole Blowjob, Billyy GloryHole Fuck, Billyy GloryHole Stuck Fuck, Billyy GloryHole 3p MFM Spitroas) are still present with spawned furniture. Everything else were adapted to table, chair</description> 
+							<image path="fomod\pictures\billyy_adapted.jpg" /> 
+							<files> 
+								<folder source="BillyysAdapted" destination="" priority="0" /> 
+							</files> 
+							<typeDescriptor> 
+								<type name="Optional"/> 
+							</typeDescriptor> 
+						</plugin> 
+						<plugin name="Spawned"> 
+							<description>Scenes with spawned un-immersive furniture(you can start ostim scene in the field and select any of these animations and they will render luxury double bed :) )&#13;&#10;
+&#13;&#10;
+You don't need both modules - they have same animations. Save your animation max count :)</description> 
+							<image path="fomod\pictures\billyy_spawned.jpg" /> 
 							<files> 
 								<folder source="BillyysSpawnedFurniture" destination="" priority="0" /> 
 							</files> 

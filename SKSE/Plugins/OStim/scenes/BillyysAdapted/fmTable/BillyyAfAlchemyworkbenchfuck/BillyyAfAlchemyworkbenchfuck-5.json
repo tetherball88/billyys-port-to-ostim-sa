@@ -1,0 +1,64 @@
+{
+    "name": "Billyy Alchemy WorkBench Fuck",
+    "modpack": "BillyyAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "BillyyAfAlchemyworkbenchfuck-6",
+            "description": "Next(climax)",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "BillyyAfAlchemyworkbenchfuck-4",
+            "description": "Back",
+            "icon": "OStim/symbols/arrow_left"
+        },
+        {
+            "destination": "BillyysAdaptedFmTableHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "BillyyAfAlchemyworkbenchfuck_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "autoTransitions": {
+                "climax": "BillyyAfAlchemyworkbenchfuck-6"
+            }
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "facingaway"
+            ],
+            "autoTransitions": {
+                "climax": "BillyyAfAlchemyworkbenchfuck-6"
+            }
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy"
+    ],
+    "furniture": "table"
+}

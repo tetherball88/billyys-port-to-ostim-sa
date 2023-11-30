@@ -1,0 +1,47 @@
+{
+    "name": "Billyy Chair Dildo",
+    "modpack": "BillyyAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "BillyyAfChairdildo-4",
+            "description": "Next",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "BillyyAfChairdildo-2",
+            "description": "Back",
+            "icon": "OStim/symbols/arrow_left"
+        },
+        {
+            "destination": "BillyysAdaptedFChairHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "BillyyAfChairdildo_3"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "mdildovaginal",
+            "actor": 0
+        }
+    ],
+    "tags": [
+        "billyy"
+    ],
+    "furniture": "chair"
+}

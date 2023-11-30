@@ -1,0 +1,82 @@
+b -o BillyyAf3pgloryholespitroast_1_2 ..\BillyysAdapted\fmmPos\BillyyAf3pgloryholespitroast\BillyyAf3pgloryholespitroast_1_2.hkx AOGHShack 
+b -o BillyyAf3pgloryholespitroast_2_2 ..\BillyysAdapted\fmmPos\BillyyAf3pgloryholespitroast\BillyyAf3pgloryholespitroast_2_2.hkx AOGHShack 
+b -o BillyyAf3pgloryholespitroast_3_2 ..\BillyysAdapted\fmmPos\BillyyAf3pgloryholespitroast\BillyyAf3pgloryholespitroast_3_2.hkx AOGHShack 
+b -o BillyyAf3pgloryholespitroast_4_2 ..\BillyysAdapted\fmmPos\BillyyAf3pgloryholespitroast\BillyyAf3pgloryholespitroast_4_2.hkx AOGHShack 
+b -o BillyyAf3pgloryholespitroast_5_2 ..\BillyysAdapted\fmmPos\BillyyAf3pgloryholespitroast\BillyyAf3pgloryholespitroast_5_2.hkx AOGHShack 
+b -Tn BillyyAf3pgloryholespitroast_1_0 ..\BillyysAdapted\fmmPos\BillyyAf3pgloryholespitroast\BillyyAf3pgloryholespitroast_1_0.hkx  
+b -Tn BillyyAf3pgloryholespitroast_2_0 ..\BillyysAdapted\fmmPos\BillyyAf3pgloryholespitroast\BillyyAf3pgloryholespitroast_2_0.hkx  
+b -Tn BillyyAf3pgloryholespitroast_3_0 ..\BillyysAdapted\fmmPos\BillyyAf3pgloryholespitroast\BillyyAf3pgloryholespitroast_3_0.hkx  
+b -Tn BillyyAf3pgloryholespitroast_4_0 ..\BillyysAdapted\fmmPos\BillyyAf3pgloryholespitroast\BillyyAf3pgloryholespitroast_4_0.hkx  
+b -Tn BillyyAf3pgloryholespitroast_5_0 ..\BillyysAdapted\fmmPos\BillyyAf3pgloryholespitroast\BillyyAf3pgloryholespitroast_5_0.hkx  
+b -Tn BillyyAf3pgloryholespitroast_1_1 ..\BillyysAdapted\fmmPos\BillyyAf3pgloryholespitroast\BillyyAf3pgloryholespitroast_1_1.hkx  
+b -Tn BillyyAf3pgloryholespitroast_2_1 ..\BillyysAdapted\fmmPos\BillyyAf3pgloryholespitroast\BillyyAf3pgloryholespitroast_2_1.hkx  
+b -Tn BillyyAf3pgloryholespitroast_3_1 ..\BillyysAdapted\fmmPos\BillyyAf3pgloryholespitroast\BillyyAf3pgloryholespitroast_3_1.hkx  
+b -Tn BillyyAf3pgloryholespitroast_4_1 ..\BillyysAdapted\fmmPos\BillyyAf3pgloryholespitroast\BillyyAf3pgloryholespitroast_4_1.hkx  
+b -Tn BillyyAf3pgloryholespitroast_5_1 ..\BillyysAdapted\fmmPos\BillyyAf3pgloryholespitroast\BillyyAf3pgloryholespitroast_5_1.hkx  
+b -Tn BillyyAfAlchemyworkbenchfuck_1_1 ..\BillyysAdapted\fmTablePos\BillyyAfAlchemyworkbenchfuck\BillyyAfAlchemyworkbenchfuck_1_1.hkx  
+b -Tn BillyyAfAlchemyworkbenchfuck_2_1 ..\BillyysAdapted\fmTablePos\BillyyAfAlchemyworkbenchfuck\BillyyAfAlchemyworkbenchfuck_2_1.hkx  
+b -Tn BillyyAfAlchemyworkbenchfuck_3_1 ..\BillyysAdapted\fmTablePos\BillyyAfAlchemyworkbenchfuck\BillyyAfAlchemyworkbenchfuck_3_1.hkx  
+b -Tn BillyyAfAlchemyworkbenchfuck_4_1 ..\BillyysAdapted\fmTablePos\BillyyAfAlchemyworkbenchfuck\BillyyAfAlchemyworkbenchfuck_4_1.hkx  
+b -Tn BillyyAfAlchemyworkbenchfuck_5_1 ..\BillyysAdapted\fmTablePos\BillyyAfAlchemyworkbenchfuck\BillyyAfAlchemyworkbenchfuck_5_1.hkx  
+b -Tn BillyyAfAlchemyworkbenchfuck_6_1 ..\BillyysAdapted\fmTablePos\BillyyAfAlchemyworkbenchfuck\BillyyAfAlchemyworkbenchfuck_6_1.hkx  
+b -o BillyyAfAlchemyworkbenchfuck_1_0 ..\BillyysAdapted\fmTablePos\BillyyAfAlchemyworkbenchfuck\BillyyAfAlchemyworkbenchfuck_1_0.hkx AOStamPotionB 
+b -o BillyyAfAlchemyworkbenchfuck_2_0 ..\BillyysAdapted\fmTablePos\BillyyAfAlchemyworkbenchfuck\BillyyAfAlchemyworkbenchfuck_2_0.hkx AOStamPotionB 
+b -o BillyyAfAlchemyworkbenchfuck_3_0 ..\BillyysAdapted\fmTablePos\BillyyAfAlchemyworkbenchfuck\BillyyAfAlchemyworkbenchfuck_3_0.hkx AOStamPotionB 
+b -o BillyyAfAlchemyworkbenchfuck_4_0 ..\BillyysAdapted\fmTablePos\BillyyAfAlchemyworkbenchfuck\BillyyAfAlchemyworkbenchfuck_4_0.hkx AOStamPotionB 
+b -o BillyyAfAlchemyworkbenchfuck_5_0 ..\BillyysAdapted\fmTablePos\BillyyAfAlchemyworkbenchfuck\BillyyAfAlchemyworkbenchfuck_5_0.hkx AOStamPotionB 
+b -o BillyyAfAlchemyworkbenchfuck_6_0 ..\BillyysAdapted\fmTablePos\BillyyAfAlchemyworkbenchfuck\BillyyAfAlchemyworkbenchfuck_6_0.hkx AOStamPotionB 
+b -o BillyyAfChairdildo_1_0 ..\BillyysAdapted\fChairPos\BillyyAfChairdildo\BillyyAfChairdildo_1_0.hkx AOShockyDogDildoB 
+b -o BillyyAfChairdildo_2_0 ..\BillyysAdapted\fChairPos\BillyyAfChairdildo\BillyyAfChairdildo_2_0.hkx AOShockyDogDildoB 
+b -o BillyyAfChairdildo_3_0 ..\BillyysAdapted\fChairPos\BillyyAfChairdildo\BillyyAfChairdildo_3_0.hkx AOShockyDogDildoB 
+b -o BillyyAfChairdildo_4_0 ..\BillyysAdapted\fChairPos\BillyyAfChairdildo\BillyyAfChairdildo_4_0.hkx AOShockyDogDildoB 
+b -o BillyyAfChairdildo_5_0 ..\BillyysAdapted\fChairPos\BillyyAfChairdildo\BillyyAfChairdildo_5_0.hkx AOShockyDogDildoB 
+b -o BillyyAfEnchantingworkbenchfuck_1_1 ..\BillyysAdapted\fmTablePos\BillyyAfEnchantingworkbenchfuck\BillyyAfEnchantingworkbenchfuck_1_1.hkx AOPetSGB 
+b -o BillyyAfEnchantingworkbenchfuck_2_1 ..\BillyysAdapted\fmTablePos\BillyyAfEnchantingworkbenchfuck\BillyyAfEnchantingworkbenchfuck_2_1.hkx AOPetSGB 
+b -o BillyyAfEnchantingworkbenchfuck_3_1 ..\BillyysAdapted\fmTablePos\BillyyAfEnchantingworkbenchfuck\BillyyAfEnchantingworkbenchfuck_3_1.hkx AOPetSGB 
+b -o BillyyAfEnchantingworkbenchfuck_4_1 ..\BillyysAdapted\fmTablePos\BillyyAfEnchantingworkbenchfuck\BillyyAfEnchantingworkbenchfuck_4_1.hkx AOPetSGB 
+b -o BillyyAfEnchantingworkbenchfuck_5_1 ..\BillyysAdapted\fmTablePos\BillyyAfEnchantingworkbenchfuck\BillyyAfEnchantingworkbenchfuck_5_1.hkx AOPetSGB 
+b -Tn BillyyAfEnchantingworkbenchfuck_1_0 ..\BillyysAdapted\fmTablePos\BillyyAfEnchantingworkbenchfuck\BillyyAfEnchantingworkbenchfuck_1_0.hkx  
+b -Tn BillyyAfEnchantingworkbenchfuck_2_0 ..\BillyysAdapted\fmTablePos\BillyyAfEnchantingworkbenchfuck\BillyyAfEnchantingworkbenchfuck_2_0.hkx  
+b -Tn BillyyAfEnchantingworkbenchfuck_3_0 ..\BillyysAdapted\fmTablePos\BillyyAfEnchantingworkbenchfuck\BillyyAfEnchantingworkbenchfuck_3_0.hkx  
+b -Tn BillyyAfEnchantingworkbenchfuck_4_0 ..\BillyysAdapted\fmTablePos\BillyyAfEnchantingworkbenchfuck\BillyyAfEnchantingworkbenchfuck_4_0.hkx  
+b -Tn BillyyAfEnchantingworkbenchfuck_5_0 ..\BillyysAdapted\fmTablePos\BillyyAfEnchantingworkbenchfuck\BillyyAfEnchantingworkbenchfuck_5_0.hkx  
+b -o BillyyAfFurotub1_1_0 ..\BillyysAdapted\fPos\BillyyAfFurotub1\BillyyAfFurotub1_1_0.hkx AOFuroTubTentacle01 AOFuroTubTentacle01A AOFuroTubTentacles 
+b -o BillyyAfFurotub1_2_0 ..\BillyysAdapted\fPos\BillyyAfFurotub1\BillyyAfFurotub1_2_0.hkx AOFuroTubTentacle01 AOFuroTubTentacle01A AOFuroTubTentacles 
+b -o BillyyAfFurotub1_3_0 ..\BillyysAdapted\fPos\BillyyAfFurotub1\BillyyAfFurotub1_3_0.hkx AOFuroTubTentacle01 AOFuroTubTentacle01A AOFuroTubTentacles 
+b -o BillyyAfFurotub1_4_0 ..\BillyysAdapted\fPos\BillyyAfFurotub1\BillyyAfFurotub1_4_0.hkx AOFuroTubTentacle01 AOFuroTubTentacle01A AOFuroTubTentacles 
+b -o BillyyAfFurotub1_5_0 ..\BillyysAdapted\fPos\BillyyAfFurotub1\BillyyAfFurotub1_5_0.hkx AOFuroTubTentacle01 AOFuroTubTentacle01A AOFuroTubTentacles 
+b -o BillyyAfFurotub2_1_0 ..\BillyysAdapted\fPos\BillyyAfFurotub2\BillyyAfFurotub2_1_0.hkx AOFuroTubTentacle01 AOFuroTubTentacle01A AOFuroTubTentacles 
+b -o BillyyAfFurotub2_2_0 ..\BillyysAdapted\fPos\BillyyAfFurotub2\BillyyAfFurotub2_2_0.hkx AOFuroTubTentacle01 AOFuroTubTentacle01A AOFuroTubTentacles 
+b -o BillyyAfFurotub2_3_0 ..\BillyysAdapted\fPos\BillyyAfFurotub2\BillyyAfFurotub2_3_0.hkx AOFuroTubTentacle01 AOFuroTubTentacle01A AOFuroTubTentacles 
+b -o BillyyAfFurotub2_4_0 ..\BillyysAdapted\fPos\BillyyAfFurotub2\BillyyAfFurotub2_4_0.hkx AOFuroTubTentacle01 AOFuroTubTentacle01A AOFuroTubTentacles 
+b -o BillyyAfFurotub2_5_0 ..\BillyysAdapted\fPos\BillyyAfFurotub2\BillyyAfFurotub2_5_0.hkx AOFuroTubTentacle01 AOFuroTubTentacle01A AOFuroTubTentacles 
+b -o BillyyAfGloryholeblowjob_1_1 ..\BillyysAdapted\fmPos\BillyyAfGloryholeblowjob\BillyyAfGloryholeblowjob_1_1.hkx AOGHShack 
+b -o BillyyAfGloryholeblowjob_2_1 ..\BillyysAdapted\fmPos\BillyyAfGloryholeblowjob\BillyyAfGloryholeblowjob_2_1.hkx AOGHShack 
+b -o BillyyAfGloryholeblowjob_3_1 ..\BillyysAdapted\fmPos\BillyyAfGloryholeblowjob\BillyyAfGloryholeblowjob_3_1.hkx AOGHShack 
+b -o BillyyAfGloryholeblowjob_4_1 ..\BillyysAdapted\fmPos\BillyyAfGloryholeblowjob\BillyyAfGloryholeblowjob_4_1.hkx AOGHShack 
+b -o BillyyAfGloryholeblowjob_5_1 ..\BillyysAdapted\fmPos\BillyyAfGloryholeblowjob\BillyyAfGloryholeblowjob_5_1.hkx AOGHShack 
+b -Tn BillyyAfGloryholeblowjob_1_0 ..\BillyysAdapted\fmPos\BillyyAfGloryholeblowjob\BillyyAfGloryholeblowjob_1_0.hkx  
+b -Tn BillyyAfGloryholeblowjob_2_0 ..\BillyysAdapted\fmPos\BillyyAfGloryholeblowjob\BillyyAfGloryholeblowjob_2_0.hkx  
+b -Tn BillyyAfGloryholeblowjob_3_0 ..\BillyysAdapted\fmPos\BillyyAfGloryholeblowjob\BillyyAfGloryholeblowjob_3_0.hkx  
+b -Tn BillyyAfGloryholeblowjob_4_0 ..\BillyysAdapted\fmPos\BillyyAfGloryholeblowjob\BillyyAfGloryholeblowjob_4_0.hkx  
+b -Tn BillyyAfGloryholeblowjob_5_0 ..\BillyysAdapted\fmPos\BillyyAfGloryholeblowjob\BillyyAfGloryholeblowjob_5_0.hkx  
+b -o BillyyAfGloryholefuck_1_1 ..\BillyysAdapted\fmPos\BillyyAfGloryholefuck\BillyyAfGloryholefuck_1_1.hkx AOGHShack 
+b -o BillyyAfGloryholefuck_2_1 ..\BillyysAdapted\fmPos\BillyyAfGloryholefuck\BillyyAfGloryholefuck_2_1.hkx AOGHShack 
+b -o BillyyAfGloryholefuck_3_1 ..\BillyysAdapted\fmPos\BillyyAfGloryholefuck\BillyyAfGloryholefuck_3_1.hkx AOGHShack 
+b -o BillyyAfGloryholefuck_4_1 ..\BillyysAdapted\fmPos\BillyyAfGloryholefuck\BillyyAfGloryholefuck_4_1.hkx AOGHShack 
+b -o BillyyAfGloryholefuck_5_1 ..\BillyysAdapted\fmPos\BillyyAfGloryholefuck\BillyyAfGloryholefuck_5_1.hkx AOGHShack 
+b -Tn BillyyAfGloryholefuck_1_0 ..\BillyysAdapted\fmPos\BillyyAfGloryholefuck\BillyyAfGloryholefuck_1_0.hkx  
+b -Tn BillyyAfGloryholefuck_2_0 ..\BillyysAdapted\fmPos\BillyyAfGloryholefuck\BillyyAfGloryholefuck_2_0.hkx  
+b -Tn BillyyAfGloryholefuck_3_0 ..\BillyysAdapted\fmPos\BillyyAfGloryholefuck\BillyyAfGloryholefuck_3_0.hkx  
+b -Tn BillyyAfGloryholefuck_4_0 ..\BillyysAdapted\fmPos\BillyyAfGloryholefuck\BillyyAfGloryholefuck_4_0.hkx  
+b -Tn BillyyAfGloryholefuck_5_0 ..\BillyysAdapted\fmPos\BillyyAfGloryholefuck\BillyyAfGloryholefuck_5_0.hkx  
+b -o BillyyAfGloryholestuckfuck_1_1 ..\BillyysAdapted\fmPos\BillyyAfGloryholestuckfuck\BillyyAfGloryholestuckfuck_1_1.hkx AOGHShack 
+b -o BillyyAfGloryholestuckfuck_2_1 ..\BillyysAdapted\fmPos\BillyyAfGloryholestuckfuck\BillyyAfGloryholestuckfuck_2_1.hkx AOGHShack 
+b -o BillyyAfGloryholestuckfuck_3_1 ..\BillyysAdapted\fmPos\BillyyAfGloryholestuckfuck\BillyyAfGloryholestuckfuck_3_1.hkx AOGHShack 
+b -o BillyyAfGloryholestuckfuck_4_1 ..\BillyysAdapted\fmPos\BillyyAfGloryholestuckfuck\BillyyAfGloryholestuckfuck_4_1.hkx AOGHShack 
+b -o BillyyAfGloryholestuckfuck_5_1 ..\BillyysAdapted\fmPos\BillyyAfGloryholestuckfuck\BillyyAfGloryholestuckfuck_5_1.hkx AOGHShack 
+b -Tn BillyyAfGloryholestuckfuck_1_0 ..\BillyysAdapted\fmPos\BillyyAfGloryholestuckfuck\BillyyAfGloryholestuckfuck_1_0.hkx  
+b -Tn BillyyAfGloryholestuckfuck_2_0 ..\BillyysAdapted\fmPos\BillyyAfGloryholestuckfuck\BillyyAfGloryholestuckfuck_2_0.hkx  
+b -Tn BillyyAfGloryholestuckfuck_3_0 ..\BillyysAdapted\fmPos\BillyyAfGloryholestuckfuck\BillyyAfGloryholestuckfuck_3_0.hkx  
+b -Tn BillyyAfGloryholestuckfuck_4_0 ..\BillyysAdapted\fmPos\BillyyAfGloryholestuckfuck\BillyyAfGloryholestuckfuck_4_0.hkx  
+b -Tn BillyyAfGloryholestuckfuck_5_0 ..\BillyysAdapted\fmPos\BillyyAfGloryholestuckfuck\BillyyAfGloryholestuckfuck_5_0.hkx  
