@@ -6,12 +6,12 @@
         {
             "origin": "BillyysHumanPage4",
             "description": "Billyy Reverse Lotus",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/reversecowgirl_mf"
         },
         {
             "destination": "BillyyRevlotus-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "BillyysHumanPage4",

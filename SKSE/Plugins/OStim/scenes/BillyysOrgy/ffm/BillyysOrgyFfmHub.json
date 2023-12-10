@@ -10,7 +10,8 @@
     "navigations": [
         {
             "origin": "OStim3PStandingMFF",
-            "description": "BillyysOrgyFfmHub"
+            "description": "BillyysOrgyFfmHub",
+            "icon": "OStim/billyy_pack"
         },
         {
             "destination": "OStim3PStandingMFF",

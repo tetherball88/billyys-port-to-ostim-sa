@@ -10,7 +10,8 @@
     "navigations": [
         {
             "origin": "OStim1PStandingM",
-            "description": "BillyysSoloMMHub"
+            "description": "BillyysSoloMMHub",
+            "icon": "OStim/billyy_pack"
         },
         {
             "destination": "OStim1PStandingM",

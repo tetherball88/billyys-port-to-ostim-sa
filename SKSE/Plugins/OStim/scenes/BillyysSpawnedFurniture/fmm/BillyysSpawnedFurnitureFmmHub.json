@@ -9,11 +9,12 @@
     ],
     "navigations": [
         {
-            "origin": "OStim3PStandingMMF",
-            "description": "BillyysSpawnedFurnitureFmmHub"
+            "origin": "BillyysFmmPack",
+            "description": "BillyysSpawnedFurnitureFmmHub",
+            "icon": "OStim/billyy_pack"
         },
         {
-            "destination": "OStim3PStandingMMF",
+            "destination": "BillyysFmmPack",
             "description": "Return",
             "icon": "OStim/symbols/return",
             "priority": -1000

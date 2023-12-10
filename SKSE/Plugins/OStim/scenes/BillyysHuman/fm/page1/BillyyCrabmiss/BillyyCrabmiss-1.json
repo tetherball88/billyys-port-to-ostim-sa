@@ -6,12 +6,12 @@
         {
             "origin": "BillyysHumanPage1",
             "description": "Billyy Crab Missionary",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/symbols/placeholder"
         },
         {
             "destination": "BillyyCrabmiss-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "BillyysHumanPage1",

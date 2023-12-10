@@ -6,12 +6,12 @@
         {
             "origin": "BillyysHumanPage4",
             "description": "Billyy Laying Nelson",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/nelson_mf"
         },
         {
             "destination": "BillyyNellay-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "BillyysHumanPage4",

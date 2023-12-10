@@ -6,12 +6,12 @@
         {
             "origin": "BillyysHumanPage3",
             "description": "Billyy Laying Prone",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/prone_mf"
         },
         {
             "destination": "BillyyLayprone-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "BillyysHumanPage3",

@@ -6,12 +6,12 @@
         {
             "origin": "BillyysHumanPage4",
             "description": "Billyy LegUp",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/legup_mf"
         },
         {
             "destination": "BillyyLegup-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "BillyysHumanPage4",

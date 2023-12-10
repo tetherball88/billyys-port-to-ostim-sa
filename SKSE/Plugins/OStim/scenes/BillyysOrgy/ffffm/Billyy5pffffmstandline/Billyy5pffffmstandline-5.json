@@ -6,12 +6,12 @@
         {
             "destination": "Billyy5pffffmstandline-6",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "Billyy5pffffmstandline-4",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "BillyysOrgyFfffmHub",

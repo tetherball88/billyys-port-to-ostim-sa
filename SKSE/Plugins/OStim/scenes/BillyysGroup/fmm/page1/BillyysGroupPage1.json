@@ -10,7 +10,8 @@
     "navigations": [
         {
             "origin": "BillyysGroupFmmHub",
-            "description": "BillyysGroupPage1"
+            "description": "BillyysGroupPage1",
+            "icon": "OStim/symbols/placeholder"
         },
         {
             "destination": "BillyysGroupFmmHub",

@@ -6,12 +6,12 @@
         {
             "origin": "BillyysOrgyFfffmHub",
             "description": "Billyy 5p FFFFM Standing Lineup",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/symbols/placeholder"
         },
         {
             "destination": "Billyy5pffffmstandline-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "BillyysOrgyFfffmHub",

@@ -6,12 +6,12 @@
         {
             "origin": "BillyysSpawnedFurnitureFHub",
             "description": "Billyy Chair Dildo",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/strapon_insert_vert"
         },
         {
             "destination": "BillyyChairdildo-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "BillyysSpawnedFurnitureFHub",

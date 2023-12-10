@@ -6,12 +6,12 @@
         {
             "destination": "Billyy4pgb8-6",
             "description": "Next(climax)",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/climax"
         },
         {
             "destination": "Billyy4pgb8-4",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "BillyysGroupFmmmHub",

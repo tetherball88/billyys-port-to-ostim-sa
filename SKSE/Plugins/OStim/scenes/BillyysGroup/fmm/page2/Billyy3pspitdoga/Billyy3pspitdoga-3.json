@@ -6,12 +6,12 @@
         {
             "destination": "Billyy3pspitdoga-4",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "Billyy3pspitdoga-2",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "BillyysGroupPage2",

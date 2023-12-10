@@ -1,6 +1,9 @@
 <!-- Created with FOMOD Creation Tool 1.7.0.37 [http://www.nexusmods.com/fallout4/mods/6821] --> 
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd"> 
 	<moduleName>Billyy's animations for Ostim Standalone</moduleName> 
+	<requiredInstallFiles> 
+		<folder source="Interface" destination="Interface" /> 
+	</requiredInstallFiles> 
 	<installSteps order="Explicit"> 
 		<installStep name="Choose animations modules"> 
 			<optionalFileGroups order="Explicit"> 
@@ -14,6 +17,7 @@ Animations designed for these set of female and male actors: FM</description>
 							<image path="fomod\pictures\billyy_human.jpg" /> 
 							<conditionFlags> 
 								<flag name="RequiresObjects">On</flag> 
+								<flag name="HumanOn">On</flag> 
 							</conditionFlags> 
 							<files> 
 								<folder source="BillyysHuman" destination="" priority="0" /> 
@@ -29,6 +33,7 @@ Animations designed for these set of female and male actors: FMM, FMMM, FMMMM</d
 							<image path="fomod\pictures\billyy_group.jpg" /> 
 							<conditionFlags> 
 								<flag name="RequiresObjects">On</flag> 
+								<flag name="GroupOn">On</flag> 
 							</conditionFlags> 
 							<files> 
 								<folder source="BillyysGroup" destination="" priority="0" /> 
@@ -73,6 +78,7 @@ Safe to play in Ostim's auto mode;&#13;&#10;
 							<image path="fomod\pictures\billyy_solo_f.jpg" /> 
 							<conditionFlags> 
 								<flag name="RequiresObjects">On</flag> 
+								<flag name="SoloFOn">On</flag> 
 							</conditionFlags> 
 							<files> 
 								<folder source="BillyysSoloF" destination="" priority="0" /> 
@@ -105,7 +111,7 @@ Animations are excluded from Ostim's auto mode;&#13;&#10;
 Animations designed for these set of female and male actors: F, FM, FMM</description> 
 							<image path="fomod\pictures\billy_adapted_vs_spawned.jpg" /> 
 							<conditionFlags> 
-								<flag name="RequiresObjects">On</flag>
+								<flag name="RequiresObjects">On</flag> 
 								<flag name="AdaptedOrSpawned">On</flag> 
 							</conditionFlags> 
 							<typeDescriptor> 
@@ -136,6 +142,9 @@ Not all animations can be adapted to regular Skyrim furniture, sometimes you'll 
 &#13;&#10;
 Animations which can't be aligned to regular furniture(Billyy FuroTub 1, Billyy FuroTub 2, Billyy GloryHole Blowjob, Billyy GloryHole Fuck, Billyy GloryHole Stuck Fuck, Billyy GloryHole 3p MFM Spitroas) are still present with spawned furniture. Everything else were adapted to table, chair</description> 
 							<image path="fomod\pictures\billyy_adapted.jpg" /> 
+							<conditionFlags> 
+								<flag name="AdaptedOn">On</flag> 
+							</conditionFlags> 
 							<files> 
 								<folder source="BillyysAdapted" destination="" priority="0" /> 
 							</files> 
@@ -148,6 +157,9 @@ Animations which can't be aligned to regular furniture(Billyy FuroTub 1, Billyy 
 &#13;&#10;
 You don't need both modules - they have same animations. Save your animation max count :)</description> 
 							<image path="fomod\pictures\billyy_spawned.jpg" /> 
+							<conditionFlags> 
+								<flag name="SpawnedOn">On</flag> 
+							</conditionFlags> 
 							<files> 
 								<folder source="BillyysSpawnedFurniture" destination="" priority="0" /> 
 							</files> 
@@ -168,6 +180,36 @@ You don't need both modules - they have same animations. Save your animation max
 				</dependencies> 
 				<files> 
 					<folder source="anim-objects" destination="" priority="0" /> 
+				</files> 
+			</pattern> 
+			<pattern> 
+				<dependencies operator="Or"> 
+					<flagDependency flag="SoloFOn" value="On"/> 
+					<flagDependency flag="SpawnedOn" value="On"/> 
+					<flagDependency flag="AdaptedOn" value="On"/> 
+				</dependencies> 
+				<files> 
+					<file source="SKSE\Plugins\OStim\scenes\packHubs\BillyysFPack.json" destination="SKSE\Plugins\OStim\scenes\packHubs\BillyysFPack.json" priority="0" /> 
+				</files> 
+			</pattern> 
+			<pattern> 
+				<dependencies operator="Or"> 
+					<flagDependency flag="HumanOn" value="On"/> 
+					<flagDependency flag="AdaptedOn" value="On"/> 
+					<flagDependency flag="SpawnedOn" value="On"/> 
+				</dependencies> 
+				<files> 
+					<file source="SKSE\Plugins\OStim\scenes\packHubs\BillyysFmPack.json" destination="SKSE\Plugins\OStim\scenes\packHubs\BillyysFmPack.json" priority="0" /> 
+				</files> 
+			</pattern> 
+			<pattern> 
+				<dependencies operator="Or"> 
+					<flagDependency flag="GroupOn" value="On"/> 
+					<flagDependency flag="AdaptedOn" value="On"/> 
+					<flagDependency flag="SpawnedOn" value="On"/> 
+				</dependencies> 
+				<files> 
+					<file source="SKSE\Plugins\OStim\scenes\packHubs\BillyysFmmPack.json" destination="SKSE\Plugins\OStim\scenes\packHubs\BillyysFmmPack.json" priority="0" /> 
 				</files> 
 			</pattern> 
 		</patterns> 

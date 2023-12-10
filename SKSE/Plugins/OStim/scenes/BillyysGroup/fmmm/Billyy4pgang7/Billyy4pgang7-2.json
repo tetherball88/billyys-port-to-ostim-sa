@@ -6,12 +6,12 @@
         {
             "destination": "Billyy4pgang7-3",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "Billyy4pgang7-1",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "BillyysGroupFmmmHub",

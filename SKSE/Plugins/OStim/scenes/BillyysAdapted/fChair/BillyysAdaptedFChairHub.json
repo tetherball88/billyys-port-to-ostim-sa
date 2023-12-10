@@ -11,7 +11,8 @@
     "navigations": [
         {
             "origin": "OStimChair1PSittingF",
-            "description": "BillyysAdaptedFChairHub"
+            "description": "BillyysAdaptedFChairHub",
+            "icon": "OStim/billyy_pack"
         },
         {
             "destination": "OStimChair1PSittingF",

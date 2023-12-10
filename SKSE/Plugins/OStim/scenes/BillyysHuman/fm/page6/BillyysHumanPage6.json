@@ -10,7 +10,8 @@
     "navigations": [
         {
             "origin": "BillyysHumanFmHub",
-            "description": "BillyysHumanPage6"
+            "description": "BillyysHumanPage6",
+            "icon": "OStim/symbols/placeholder"
         },
         {
             "destination": "BillyysHumanFmHub",

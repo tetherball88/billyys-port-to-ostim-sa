@@ -6,12 +6,12 @@
         {
             "destination": "Billyy3pffmdogside-5",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "Billyy3pffmdogside-3",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "BillyysOrgyFfmHub",

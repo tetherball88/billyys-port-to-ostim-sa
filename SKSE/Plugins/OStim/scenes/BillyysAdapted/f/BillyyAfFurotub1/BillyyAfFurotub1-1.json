@@ -6,12 +6,12 @@
         {
             "origin": "BillyysAdaptedFHub",
             "description": "Billyy FuroTub 1",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/symbols/placeholder"
         },
         {
             "destination": "BillyyAfFurotub1-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "BillyysAdaptedFHub",

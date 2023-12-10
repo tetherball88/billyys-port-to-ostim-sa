@@ -6,12 +6,12 @@
         {
             "origin": "BillyysGroupFmmmHub",
             "description": "Billyy 4p Service Goblet MMMF",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/symbols/placeholder"
         },
         {
             "destination": "Billyy4pservgob-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "BillyysGroupFmmmHub",
