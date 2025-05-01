@@ -1,0 +1,50 @@
+{
+    "name": "Billyy Doggy Facefuck",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyDogff-4",
+    "speeds": [
+        {
+            "animation": "BillyyDogff_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "allfours"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghead",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "blowjob",
+            "actor": 1,
+            "target": 0,
+            "performer": 0
+        }
+    ],
+    "tags": [
+        "billyy",
+        "facefuck",
+        "transition"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Billyy Sitting Facefuck",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyySitff-4",
+    "speeds": [
+        {
+            "animation": "BillyySitff_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "sitting"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "blowjob",
+            "actor": 1,
+            "target": 0,
+            "performer": 0
+        },
+        {
+            "type": "holdinghead",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "facefuck",
+        "transition"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Billyy Missionary 2",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyMiss2-4",
+    "speeds": [
+        {
+            "animation": "BillyyMiss2_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingbottom",
+                "spreadlegs",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "missionary",
+        "transition"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Billyy Reverse Cowgirl Squat Anal",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyRcganal-5",
+    "speeds": [
+        {
+            "animation": "BillyyRcganal_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingbottom",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "analsex",
+            "actor": 0,
+            "target": 1,
+            "performer": 1
+        },
+        {
+            "type": "holdingbody",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "reversecowgirl",
+        "transition"
+    ]
+}

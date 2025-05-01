@@ -1,0 +1,50 @@
+{
+    "name": "Billyy Crab Under",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyCrabunder-5",
+    "speeds": [
+        {
+            "animation": "BillyyCrabunder_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdinghand",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "crab",
+        "reversecowgirl",
+        "transition"
+    ]
+}

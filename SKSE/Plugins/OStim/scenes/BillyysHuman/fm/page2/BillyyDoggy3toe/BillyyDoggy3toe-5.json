@@ -1,0 +1,44 @@
+{
+    "name": "Billyy Doggy 3 Feet Up",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyDoggy3toe-4",
+    "speeds": [
+        {
+            "animation": "BillyyDoggy3toe_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -5,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "allfours",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "doggystyle",
+        "transition"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Billyy Sitting Blowjob",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyySitbj-4",
+    "speeds": [
+        {
+            "animation": "BillyySitbj_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -2,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "sitting"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "deepthroat",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

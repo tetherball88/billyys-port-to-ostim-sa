@@ -1,0 +1,49 @@
+{
+    "name": "Billyy Doggy 4 Service",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyDoggy4srv-5",
+    "speeds": [
+        {
+            "animation": "BillyyDoggy4srv_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -3,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "allfours",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "gropingbutt",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "doggystyle",
+        "transition"
+    ]
+}

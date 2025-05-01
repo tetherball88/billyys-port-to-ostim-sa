@@ -1,0 +1,44 @@
+{
+    "name": "Billyy Kneeling Handjob 4 Cowgirl",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyHj4cow-5",
+    "speeds": [
+        {
+            "animation": "BillyyHj4cow_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 6,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "onbottom",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "sitting",
+                "ontop"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "handjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}
