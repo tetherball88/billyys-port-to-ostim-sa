@@ -1,17 +1,17 @@
 {
-    "name": "Billyy Lesbian Magic Dildo 1",
+    "name": "Billyy Lesbian 69 Holding",
     "modpack": "BillyyAnimations",
     "length": 2,
     "navigations": [
         {
-            "destination": "BillyyLesmdil1-4",
-            "description": "Next",
-            "icon": "OStim/symbols/next"
+            "origin": "BillyysLesbianPage1",
+            "description": "Billyy Lesbian 69 Holding",
+            "icon": "OStim/symbols/placeholder"
         },
         {
-            "destination": "BillyyLesmdil1-2",
-            "description": "Back",
-            "icon": "OStim/symbols/previous"
+            "destination": "BillyyL69hold-2",
+            "description": "Next",
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "BillyysLesbianPage1",
@@ -21,14 +21,14 @@
     ],
     "speeds": [
         {
-            "animation": "BillyyLesmdil1_3"
+            "animation": "BillyyL69hold_1"
         }
     ],
     "actors": [
         {
             "intendedSex": "female",
             "scale": 1,
-            "feetOnGround": false,
+            "feetOnGround": true,
             "tags": [
                 "allfours"
             ]
@@ -38,27 +38,23 @@
             "scale": 1,
             "feetOnGround": true,
             "tags": [
-                "lyingback"
+                "standing"
             ]
         }
     ],
     "actions": [
         {
-            "type": "vaginaltoying",
-            "actor": 0
-        },
-        {
-            "type": "analtoying",
-            "actor": 0
-        },
-        {
             "type": "lickingvagina",
-            "actor": 0,
-            "target": 1
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "holdinghip",
+            "actor": 1,
+            "target": 0
         }
     ],
     "tags": [
-        "billyy",
-        "magic"
+        "billyy"
     ]
 }

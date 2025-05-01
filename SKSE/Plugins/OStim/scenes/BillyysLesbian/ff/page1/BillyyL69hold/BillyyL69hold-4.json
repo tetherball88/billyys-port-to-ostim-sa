@@ -1,15 +1,15 @@
 {
-    "name": "Billyy Lesbian Magic Dildo 1",
+    "name": "Billyy Lesbian 69 Holding",
     "modpack": "BillyyAnimations",
     "length": 2,
     "navigations": [
         {
-            "destination": "BillyyLesmdil1-3",
-            "description": "Next",
-            "icon": "OStim/symbols/next"
+            "destination": "BillyyL69hold-5",
+            "description": "Next(climax)",
+            "icon": "OStim/symbols/climax"
         },
         {
-            "destination": "BillyyLesmdil1-1",
+            "destination": "BillyyL69hold-3",
             "description": "Back",
             "icon": "OStim/symbols/previous"
         },
@@ -21,7 +21,7 @@
     ],
     "speeds": [
         {
-            "animation": "BillyyLesmdil1_2"
+            "animation": "BillyyL69hold_4"
         }
     ],
     "actors": [
@@ -30,30 +30,38 @@
             "scale": 1,
             "feetOnGround": false,
             "tags": [
-                "allfours"
-            ]
+                "suspended"
+            ],
+            "autoTransitions": {
+                "climax": "BillyyL69hold-5"
+            }
         },
         {
             "intendedSex": "female",
             "scale": 1,
-            "feetOnGround": false,
+            "feetOnGround": true,
             "tags": [
-                "kneeling"
-            ]
+                "standing"
+            ],
+            "autoTransitions": {
+                "climax": "BillyyL69hold-5"
+            }
         }
     ],
     "actions": [
         {
-            "type": "vaginaltoying",
-            "actor": 0
+            "type": "lickingvagina",
+            "actor": 0,
+            "target": 1
         },
         {
-            "type": "femalemasturbation",
-            "actor": 1
+            "type": "lickingvagina",
+            "actor": 1,
+            "target": 0
         }
     ],
     "tags": [
         "billyy",
-        "magic"
+        "sixtynine"
     ]
 }
