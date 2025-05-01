@@ -58,7 +58,10 @@
             "feetOnGround": true,
             "tags": [
                 "squatting"
-            ]
+            ],
+            "offset": {
+                "z": -1
+            }
         }
     ],
     "actions": [
