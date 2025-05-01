@@ -1,0 +1,64 @@
+{
+    "name": "Billyy 3p FFM Doggy Missionary Stacked",
+    "modpack": "BillyyAnimations",
+    "length": 2,
+    "destination": "Billyy3pffmdogmiss-5",
+    "speeds": [
+        {
+            "animation": "Billyy3pffmdogmiss_4"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "onbottom"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "bendover",
+                "ontop",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "pullinghair",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "rubbingclitoris",
+            "actor": 1,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

@@ -27,7 +27,7 @@
     "actors": [
         {
             "intendedSex": "male",
-            "sosBend": 5,
+            "sosBend": 4,
             "scale": 1,
             "feetOnGround": true,
             "tags": [
