@@ -1,0 +1,93 @@
+{
+    "name": "Billyy 4p FFMM Kneeling Blowjob Swing",
+    "modpack": "BillyyAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "Billyy4pffmmbjswing-3",
+            "description": "Next",
+            "icon": "OStim/symbols/next"
+        },
+        {
+            "destination": "Billyy4pffmmbjswing-1",
+            "description": "Back",
+            "icon": "OStim/symbols/previous"
+        },
+        {
+            "destination": "BillyysOrgyFfmmHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        },
+        {
+            "destination": "Billyy4pffmmbjswing-2SwappedM1-F0",
+            "description": "Rotate males",
+            "icon": "OStim/symbols/rotate_cw"
+        },
+        {
+            "destination": "Billyy4pffmmbjswing-2SwappedM0-F1",
+            "description": "Rotate females",
+            "icon": "OStim/symbols/rotate_cw"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "Billyy4pffmmbjswing_2"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "blowjob",
+            "actor": 2,
+            "target": 1
+        },
+        {
+            "type": "blowjob",
+            "actor": 3,
+            "target": 0
+        },
+        {
+            "type": "holdinghand",
+            "actor": 2,
+            "target": 3
+        }
+    ],
+    "tags": [
+        "billyy"
+    ]
+}

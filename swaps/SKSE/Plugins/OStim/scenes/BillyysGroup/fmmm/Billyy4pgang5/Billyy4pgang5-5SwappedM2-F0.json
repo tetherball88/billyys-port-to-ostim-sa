@@ -1,0 +1,89 @@
+{
+    "name": "Billyy 4p Gangbang MMMF 5",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "Billyy4pgang5-4SwappedM2-F0",
+    "speeds": [
+        {
+            "animation": "Billyy4pgang5_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ],
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": -7,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "onbottom",
+                "climaxing"
+            ],
+            "animationIndex": 2
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 4,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ],
+            "animationIndex": 0
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingfront",
+                "ontop",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghead",
+            "actor": 0,
+            "target": 3
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 2,
+            "target": 3
+        },
+        {
+            "type": "analsex",
+            "actor": 1,
+            "target": 3
+        },
+        {
+            "type": "holdingleg",
+            "actor": 2,
+            "target": 3
+        },
+        {
+            "type": "blowjob",
+            "actor": 3,
+            "target": 0,
+            "performer": 0
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

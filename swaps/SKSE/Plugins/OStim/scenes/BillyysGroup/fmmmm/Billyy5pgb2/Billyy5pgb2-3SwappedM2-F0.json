@@ -1,0 +1,108 @@
+{
+    "name": "Billyy 5p Gangbang MMMMF 2",
+    "modpack": "BillyyAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "Billyy5pgb2-4SwappedM2-F0",
+            "description": "Next",
+            "icon": "OStim/symbols/next"
+        },
+        {
+            "destination": "Billyy5pgb2-2SwappedM2-F0",
+            "description": "Back",
+            "icon": "OStim/symbols/previous"
+        },
+        {
+            "destination": "BillyysGroupFmmmmHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        },
+        {
+            "destination": "Billyy5pgb2-3SwappedM3-F0",
+            "description": "Rotate males",
+            "icon": "OStim/symbols/rotate_cw"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "Billyy5pgb2_3"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "animationIndex": 2
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "animationIndex": 3
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "animationIndex": 0
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "bendover"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 4
+        },
+        {
+            "type": "handjob",
+            "actor": 4,
+            "target": 2
+        },
+        {
+            "type": "handjob",
+            "actor": 4,
+            "target": 3
+        },
+        {
+            "type": "blowjob",
+            "actor": 4,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy"
+    ]
+}

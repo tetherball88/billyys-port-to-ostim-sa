@@ -1,0 +1,129 @@
+{
+    "name": "Billyy 5p Gangbang MMMMF 2",
+    "modpack": "BillyyAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "Billyy5pgb2-6",
+            "description": "Next(climax)",
+            "icon": "OStim/symbols/climax"
+        },
+        {
+            "destination": "Billyy5pgb2-4SwappedM3-F0",
+            "description": "Back",
+            "icon": "OStim/symbols/previous"
+        },
+        {
+            "destination": "BillyysGroupFmmmmHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        },
+        {
+            "destination": "Billyy5pgb2-5",
+            "description": "Rotate males",
+            "icon": "OStim/symbols/rotate_cw"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "Billyy5pgb2_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "autoTransitions": {
+                "climax": "Billyy5pgb2-6"
+            },
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "autoTransitions": {
+                "climax": "Billyy5pgb2-6"
+            },
+            "animationIndex": 2
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "autoTransitions": {
+                "climax": "Billyy5pgb2-6"
+            },
+            "animationIndex": 3
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "autoTransitions": {
+                "climax": "Billyy5pgb2-6"
+            },
+            "animationIndex": 0
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "bendover"
+            ],
+            "autoTransitions": {
+                "climax": "Billyy5pgb2-6"
+            }
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 3,
+            "target": 4
+        },
+        {
+            "type": "holdinghead",
+            "actor": 2,
+            "target": 4
+        },
+        {
+            "type": "handjob",
+            "actor": 4,
+            "target": 0
+        },
+        {
+            "type": "handjob",
+            "actor": 4,
+            "target": 1
+        },
+        {
+            "type": "blowjob",
+            "actor": 4,
+            "target": 2,
+            "performer": 2
+        }
+    ],
+    "tags": [
+        "billyy"
+    ]
+}

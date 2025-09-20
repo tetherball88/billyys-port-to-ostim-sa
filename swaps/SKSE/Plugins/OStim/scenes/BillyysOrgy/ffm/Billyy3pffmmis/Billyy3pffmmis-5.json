@@ -1,0 +1,66 @@
+{
+    "name": "Billyy 3p FFM Missionary",
+    "modpack": "BillyyAnimations",
+    "length": 8,
+    "destination": "Billyy3pffmmis-4",
+    "speeds": [
+        {
+            "animation": "Billyy3pffmmis_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "onbottom",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "ontop",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "grindingpenis",
+            "actor": 1,
+            "target": 0,
+            "performer": 0
+        },
+        {
+            "type": "grindingpenis",
+            "actor": 2,
+            "target": 0,
+            "performer": 0
+        },
+        {
+            "type": "hug",
+            "actor": 0,
+            "target": 2
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

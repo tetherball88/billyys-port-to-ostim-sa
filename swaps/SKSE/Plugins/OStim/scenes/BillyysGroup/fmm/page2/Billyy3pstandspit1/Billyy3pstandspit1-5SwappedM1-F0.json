@@ -1,0 +1,71 @@
+{
+    "name": "Billyy 3p MMF Standing Spitroast 1",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "Billyy3pstandspit1-4SwappedM1-F0",
+    "speeds": [
+        {
+            "animation": "Billyy3pstandspit1_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ],
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ],
+            "animationIndex": 0
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "suspended",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghead",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 1,
+            "target": 2
+        },
+        {
+            "type": "holdingbody",
+            "actor": 1,
+            "target": 2
+        },
+        {
+            "type": "blowjob",
+            "actor": 2,
+            "target": 0,
+            "performer": 0
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

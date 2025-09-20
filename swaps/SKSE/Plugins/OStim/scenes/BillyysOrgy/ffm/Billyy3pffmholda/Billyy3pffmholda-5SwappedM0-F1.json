@@ -1,0 +1,63 @@
+{
+    "name": "Billyy 3p FFM Holding Anal",
+    "modpack": "BillyyAnimations",
+    "length": 8,
+    "destination": "Billyy3pffmholda-4SwappedM0-F1",
+    "speeds": [
+        {
+            "animation": "Billyy3pffmholda_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 9,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ],
+            "animationIndex": 2
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "suspended",
+                "climaxing"
+            ],
+            "animationIndex": 1
+        }
+    ],
+    "actions": [
+        {
+            "type": "analsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "lickingvagina",
+            "actor": 2,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

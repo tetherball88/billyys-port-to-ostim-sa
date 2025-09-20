@@ -1,0 +1,101 @@
+{
+    "name": "Billyy 5p FFFFM Standing Lineup",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "Billyy5pffffmstandline-6SwappedM0-F2",
+    "speeds": [
+        {
+            "animation": "Billyy5pffffmstandline_7"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "animationIndex": 3
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "bendover",
+                "climaxing"
+            ],
+            "animationIndex": 4
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "bendover",
+                "climaxing"
+            ],
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "bendover",
+                "climaxing"
+            ],
+            "animationIndex": 2
+        }
+    ],
+    "actions": [
+        {
+            "type": "cumonbutt",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "cumonbutt",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "cumonbutt",
+            "actor": 0,
+            "target": 4
+        },
+        {
+            "type": "hug",
+            "actor": 0,
+            "target": 3
+        },
+        {
+            "type": "handjob",
+            "actor": 3,
+            "target": 0
+        },
+        {
+            "type": "hug",
+            "actor": 3,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

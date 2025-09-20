@@ -1,0 +1,52 @@
+{
+    "name": "Billyy Lesbian Fingering 1 Missionary",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyLfing1-4",
+    "speeds": [
+        {
+            "animation": "BillyyLfing1_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback",
+                "spreadlegs",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingside",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "hug",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "vaginalfingering",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "femalemasturbation",
+            "actor": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

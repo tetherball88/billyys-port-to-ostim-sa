@@ -1,0 +1,100 @@
+{
+    "name": "Billyy 5p Gangbang MMMMF 1",
+    "modpack": "BillyyAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "Billyy5pgb1-2SwappedM1-F0",
+            "description": "Next",
+            "icon": "OStim/symbols/next"
+        },
+        {
+            "destination": "BillyysGroupFmmmmHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        },
+        {
+            "destination": "Billyy5pgb1-1SwappedM2-F0",
+            "description": "Rotate males",
+            "icon": "OStim/symbols/rotate_cw"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "Billyy5pgb1_1"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "animationIndex": 3
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 7,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ],
+            "animationIndex": 0
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback"
+            ],
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "animationIndex": 2
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 4
+        },
+        {
+            "type": "analsex",
+            "actor": 1,
+            "target": 4
+        },
+        {
+            "type": "malemasturbation",
+            "actor": 2
+        },
+        {
+            "type": "malemasturbation",
+            "actor": 3
+        }
+    ],
+    "tags": [
+        "billyy"
+    ]
+}

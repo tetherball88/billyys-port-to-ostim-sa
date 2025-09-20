@@ -1,0 +1,88 @@
+{
+    "name": "Billyy Lesbian 3p Orgy 3 Service",
+    "modpack": "BillyyAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "origin": "BillyysLesbianFffHub",
+            "description": "Billyy Lesbian 3p Orgy 3 Service",
+            "icon": "OStim/symbols/placeholder"
+        },
+        {
+            "destination": "BillyyL3porgy3-2",
+            "description": "Next",
+            "icon": "OStim/symbols/next"
+        },
+        {
+            "destination": "BillyysLesbianFffHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        },
+        {
+            "destination": "BillyyL3porgy3-1SwappedM0-F1",
+            "description": "Rotate females",
+            "icon": "OStim/symbols/rotate_cw"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "BillyyL3porgy3_1"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "kissing",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "pattinghead",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "gropingbutt",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "pattinghead",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "lickingvagina",
+            "actor": 2,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy"
+    ]
+}

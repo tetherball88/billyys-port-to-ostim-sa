@@ -1,0 +1,64 @@
+{
+    "name": "Billyy 3p FFM 69",
+    "modpack": "BillyyAnimations",
+    "length": 8,
+    "destination": "Billyy3pffm69-4SwappedM0-F1",
+    "speeds": [
+        {
+            "animation": "Billyy3pffm69_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "allfours",
+                "climaxing"
+            ],
+            "animationIndex": 2
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ],
+            "animationIndex": 1
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "lickingvagina",
+            "actor": 1,
+            "target": 2
+        },
+        {
+            "type": "cunnilingus",
+            "actor": 2,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

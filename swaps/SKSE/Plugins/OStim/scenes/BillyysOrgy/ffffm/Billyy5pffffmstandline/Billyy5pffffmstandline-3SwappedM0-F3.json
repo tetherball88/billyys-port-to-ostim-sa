@@ -1,0 +1,129 @@
+{
+    "name": "Billyy 5p FFFFM Standing Lineup",
+    "modpack": "BillyyAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "Billyy5pffffmstandline-4SwappedM0-F3",
+            "description": "Next",
+            "icon": "OStim/symbols/next"
+        },
+        {
+            "destination": "Billyy5pffffmstandline-2SwappedM0-F3",
+            "description": "Back",
+            "icon": "OStim/symbols/previous"
+        },
+        {
+            "destination": "BillyysOrgyFfffmHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        },
+        {
+            "destination": "Billyy5pffffmstandline-3",
+            "description": "Rotate females",
+            "icon": "OStim/symbols/rotate_cw"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "Billyy5pffffmstandline_3"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "animationIndex": 2
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "animationIndex": 3
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "animationIndex": 4
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "animationIndex": 1
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hug",
+            "actor": 1,
+            "target": 2
+        },
+        {
+            "type": "hug",
+            "actor": 1,
+            "target": 4
+        },
+        {
+            "type": "hug",
+            "actor": 2,
+            "target": 1
+        },
+        {
+            "type": "hug",
+            "actor": 4,
+            "target": 3
+        },
+        {
+            "type": "rubbingclitoris",
+            "actor": 3,
+            "target": 4
+        },
+        {
+            "type": "kissing",
+            "actor": 3,
+            "target": 4
+        },
+        {
+            "type": "hug",
+            "actor": 3,
+            "target": 4
+        }
+    ],
+    "tags": [
+        "billyy"
+    ]
+}

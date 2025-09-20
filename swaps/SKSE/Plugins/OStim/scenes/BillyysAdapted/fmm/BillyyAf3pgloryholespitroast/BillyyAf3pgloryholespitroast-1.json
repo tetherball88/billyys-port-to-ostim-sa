@@ -1,0 +1,76 @@
+{
+    "name": "Billyy GloryHole 3p MFM Spitroast",
+    "modpack": "BillyyAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "origin": "BillyysAdaptedFmmHub",
+            "description": "Billyy GloryHole 3p MFM Spitroast",
+            "icon": "OStim/symbols/placeholder"
+        },
+        {
+            "destination": "BillyyAf3pgloryholespitroast-2",
+            "description": "Next",
+            "icon": "OStim/symbols/next"
+        },
+        {
+            "destination": "BillyysAdaptedFmmHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        },
+        {
+            "destination": "BillyyAf3pgloryholespitroast-1SwappedM1-F0",
+            "description": "Rotate males",
+            "icon": "OStim/symbols/rotate_cw"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "BillyyAf3pgloryholespitroast_1"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "handjob",
+            "actor": 2,
+            "target": 0
+        },
+        {
+            "type": "handjob",
+            "actor": 2,
+            "target": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "billyy"
+    ]
+}

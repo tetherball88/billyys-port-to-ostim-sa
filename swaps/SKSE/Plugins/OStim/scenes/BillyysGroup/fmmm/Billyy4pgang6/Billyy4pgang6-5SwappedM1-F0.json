@@ -1,0 +1,93 @@
+{
+    "name": "Billyy 4p Gangbang MMMF 6",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "Billyy4pgang6-4SwappedM1-F0",
+    "speeds": [
+        {
+            "animation": "Billyy4pgang6_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -1,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ],
+            "animationIndex": 2
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ],
+            "animationIndex": 0
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 7,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback",
+                "onbottom",
+                "climaxing"
+            ],
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "ontop",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 3
+        },
+        {
+            "type": "holdingleg",
+            "actor": 0,
+            "target": 3
+        },
+        {
+            "type": "analsex",
+            "actor": 1,
+            "target": 3
+        },
+        {
+            "type": "holdingbody",
+            "actor": 1,
+            "target": 3
+        },
+        {
+            "type": "holdinghead",
+            "actor": 2,
+            "target": 3
+        },
+        {
+            "type": "deepthroat",
+            "actor": 3,
+            "target": 2
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

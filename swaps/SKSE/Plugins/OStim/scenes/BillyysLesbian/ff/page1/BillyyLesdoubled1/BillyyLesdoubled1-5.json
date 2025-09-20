@@ -1,0 +1,53 @@
+{
+    "name": "Billyy Lesbian Double Dildo 1 Doggy",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyLesdoubled1-4",
+    "speeds": [
+        {
+            "animation": "BillyyLesdoubled1_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "allfours",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "allfours",
+                "facingaway",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginaltoying",
+            "actor": 0,
+            "target": 0
+        },
+        {
+            "type": "holdinghand",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "vaginaltoying",
+            "actor": 1,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

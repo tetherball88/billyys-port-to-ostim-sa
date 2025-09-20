@@ -1,0 +1,81 @@
+{
+    "name": "Billyy 4p FFMM Standing Swing",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "Billyy4pffmmstandingswing-7SwappedM1-F1",
+    "speeds": [
+        {
+            "animation": "Billyy4pffmmstandingswing_8"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 4,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ],
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 3,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ],
+            "animationIndex": 0
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ],
+            "animationIndex": 3
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ],
+            "animationIndex": 2
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 3
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 1,
+            "target": 2
+        },
+        {
+            "type": "hug",
+            "actor": 2,
+            "target": 3
+        },
+        {
+            "type": "hug",
+            "actor": 3,
+            "target": 2
+        }
+    ],
+    "tags": [
+        "anubs",
+        "transition"
+    ]
+}

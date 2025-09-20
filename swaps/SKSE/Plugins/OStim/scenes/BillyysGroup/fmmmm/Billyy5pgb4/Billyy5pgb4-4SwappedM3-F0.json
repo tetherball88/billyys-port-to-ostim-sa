@@ -1,0 +1,100 @@
+{
+    "name": "Billyy 5p Gangbang 4 Doggy MMMMF",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "Billyy5pgb4-5SwappedM3-F0",
+    "speeds": [
+        {
+            "animation": "Billyy5pgb4_4"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ],
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ],
+            "animationIndex": 2
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ],
+            "animationIndex": 3
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ],
+            "animationIndex": 0
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "bendover",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 4
+        },
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 4
+        },
+        {
+            "type": "deepthroat",
+            "actor": 4,
+            "target": 3,
+            "performer": 3
+        },
+        {
+            "type": "holdinghead",
+            "actor": 3,
+            "target": 4
+        },
+        {
+            "type": "malemasturbation",
+            "actor": 1
+        },
+        {
+            "type": "malemasturbation",
+            "actor": 2
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

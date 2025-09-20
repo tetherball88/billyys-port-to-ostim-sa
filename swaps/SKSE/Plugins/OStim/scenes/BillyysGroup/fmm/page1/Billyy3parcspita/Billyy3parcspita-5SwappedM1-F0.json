@@ -1,0 +1,77 @@
+{
+    "name": "Billyy 3p MMF Arced Spitroast Anal",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "Billyy3parcspita-4SwappedM1-F0",
+    "speeds": [
+        {
+            "animation": "Billyy3parcspita_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -2,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "onbottom",
+                "climaxing"
+            ],
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 5,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ],
+            "animationIndex": 0
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "ontop",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "hug",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "analsex",
+            "actor": 1,
+            "target": 2
+        },
+        {
+            "type": "holdingleg",
+            "actor": 1,
+            "target": 2
+        },
+        {
+            "type": "deepthroat",
+            "actor": 2,
+            "target": 0
+        },
+        {
+            "type": "hug",
+            "actor": 2,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

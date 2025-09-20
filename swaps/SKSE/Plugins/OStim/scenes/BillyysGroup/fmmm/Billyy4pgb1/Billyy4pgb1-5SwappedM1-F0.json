@@ -1,0 +1,87 @@
+{
+    "name": "Billyy 4p Gangbang MMMF 1",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "Billyy4pgb1-4SwappedM1-F0",
+    "speeds": [
+        {
+            "animation": "Billyy4pgb1_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 5,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ],
+            "animationIndex": 2
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 4,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting",
+                "climaxing"
+            ],
+            "animationIndex": 0
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 3,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ],
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "analsex",
+            "actor": 0,
+            "target": 3
+        },
+        {
+            "type": "holdingarm",
+            "actor": 0,
+            "target": 3
+        },
+        {
+            "type": "holdinghead",
+            "actor": 1,
+            "target": 3
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 2,
+            "target": 3
+        },
+        {
+            "type": "deepthroat",
+            "actor": 3,
+            "target": 1,
+            "performer": 1
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

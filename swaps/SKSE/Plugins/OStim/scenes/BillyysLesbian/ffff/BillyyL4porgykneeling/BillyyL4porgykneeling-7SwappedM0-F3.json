@@ -1,0 +1,125 @@
+{
+    "name": "Billyy Lesbian 4p Orgy Kneeling",
+    "modpack": "BillyyAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "BillyyL4porgykneeling-8",
+            "description": "Next(climax)",
+            "icon": "OStim/symbols/climax"
+        },
+        {
+            "destination": "BillyyL4porgykneeling-6SwappedM0-F3",
+            "description": "Back",
+            "icon": "OStim/symbols/previous"
+        },
+        {
+            "destination": "BillyysLesbianFfffHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        },
+        {
+            "destination": "BillyyL4porgykneeling-7",
+            "description": "Rotate females",
+            "icon": "OStim/symbols/rotate_cw"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "BillyyL4porgykneeling_7"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "allfours",
+                "ontop"
+            ],
+            "autoTransitions": {
+                "climax": "BillyyL4porgykneeling-8"
+            },
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "spreadlegs",
+                "onbottom"
+            ],
+            "autoTransitions": {
+                "climax": "BillyyL4porgykneeling-8"
+            },
+            "animationIndex": 2
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingside"
+            ],
+            "autoTransitions": {
+                "climax": "BillyyL4porgykneeling-8"
+            },
+            "animationIndex": 3
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingside"
+            ],
+            "autoTransitions": {
+                "climax": "BillyyL4porgykneeling-8"
+            },
+            "animationIndex": 0
+        }
+    ],
+    "actions": [
+        {
+            "type": "lickingvagina",
+            "actor": 0,
+            "target": 3
+        },
+        {
+            "type": "lickingvagina",
+            "actor": 3,
+            "target": 0
+        },
+        {
+            "type": "hug",
+            "actor": 0,
+            "target": 3
+        },
+        {
+            "type": "hug",
+            "actor": 3,
+            "target": 0
+        },
+        {
+            "type": "lickingvagina",
+            "actor": 2,
+            "target": 1
+        },
+        {
+            "type": "lickingvagina",
+            "actor": 1,
+            "target": 2
+        },
+        {
+            "type": "hug",
+            "actor": 2,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "billyy"
+    ]
+}

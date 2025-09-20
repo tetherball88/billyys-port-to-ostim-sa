@@ -1,0 +1,73 @@
+{
+    "name": "Billyy 4p Service Goblet MMMF",
+    "modpack": "BillyyAnimations",
+    "length": 8,
+    "destination": "Billyy4pservgob-6SwappedM2-F0",
+    "speeds": [
+        {
+            "animation": "Billyy4pservgob_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 4,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ],
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ],
+            "animationIndex": 2
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ],
+            "animationIndex": 0
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "handjob",
+            "actor": 3,
+            "target": 1
+        },
+        {
+            "type": "malemasturbation",
+            "actor": 0
+        },
+        {
+            "type": "malemasturbation",
+            "actor": 2
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

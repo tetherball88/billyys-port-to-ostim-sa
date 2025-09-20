@@ -1,0 +1,89 @@
+{
+    "name": "Billyy 3p MMF Reverse Cowgirl Spitroast",
+    "modpack": "BillyyAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "Billyy3prcgspit-5",
+            "description": "Next(climax)",
+            "icon": "OStim/symbols/climax"
+        },
+        {
+            "destination": "Billyy3prcgspit-3SwappedM1-F0",
+            "description": "Back",
+            "icon": "OStim/symbols/previous"
+        },
+        {
+            "destination": "BillyysGroupPage1",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        },
+        {
+            "destination": "Billyy3prcgspit-4",
+            "description": "Rotate males",
+            "icon": "OStim/symbols/rotate_cw"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "Billyy3prcgspit_4"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -3,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "onbottom"
+            ],
+            "autoTransitions": {
+                "climax": "Billyy3prcgspit-5"
+            },
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "autoTransitions": {
+                "climax": "Billyy3prcgspit-5"
+            },
+            "animationIndex": 0
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "ontop"
+            ],
+            "autoTransitions": {
+                "climax": "Billyy3prcgspit-5"
+            }
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 1,
+            "target": 2,
+            "performer": 2
+        },
+        {
+            "type": "blowjob",
+            "actor": 2,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "billyy"
+    ]
+}

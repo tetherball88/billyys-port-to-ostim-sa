@@ -1,0 +1,64 @@
+{
+    "name": "Billyy 3p MMF Spitroast Doggy Anal",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "Billyy3pspitdoga-4",
+    "speeds": [
+        {
+            "animation": "Billyy3pspitdoga_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "sitting",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "allfours",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "analsex",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "holdinghead",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "deepthroat",
+            "actor": 2,
+            "target": 1,
+            "performer": 0
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

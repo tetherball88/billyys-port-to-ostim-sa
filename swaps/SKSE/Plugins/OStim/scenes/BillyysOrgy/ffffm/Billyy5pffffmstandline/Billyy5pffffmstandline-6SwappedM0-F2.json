@@ -1,0 +1,126 @@
+{
+    "name": "Billyy 5p FFFFM Standing Lineup",
+    "modpack": "BillyyAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "Billyy5pffffmstandline-7",
+            "description": "Next(climax)",
+            "icon": "OStim/symbols/climax"
+        },
+        {
+            "destination": "Billyy5pffffmstandline-5SwappedM0-F2",
+            "description": "Back",
+            "icon": "OStim/symbols/previous"
+        },
+        {
+            "destination": "BillyysOrgyFfffmHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        },
+        {
+            "destination": "Billyy5pffffmstandline-6SwappedM0-F3",
+            "description": "Rotate females",
+            "icon": "OStim/symbols/rotate_cw"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "Billyy5pffffmstandline_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "autoTransitions": {
+                "climax": "Billyy5pffffmstandline-7"
+            }
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting"
+            ],
+            "autoTransitions": {
+                "climax": "Billyy5pffffmstandline-7"
+            },
+            "animationIndex": 3
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "bendover"
+            ],
+            "autoTransitions": {
+                "climax": "Billyy5pffffmstandline-7"
+            },
+            "animationIndex": 4
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "bendover"
+            ],
+            "animationIndex": 1,
+            "autoTransitions": {
+                "climax": "Billyy5pffffmstandline-7"
+            }
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "bendover"
+            ],
+            "autoTransitions": {
+                "climax": "Billyy5pffffmstandline-7"
+            },
+            "animationIndex": 2
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "vaginalfingering",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "kissing",
+            "actor": 1,
+            "target": 4
+        },
+        {
+            "type": "rimjob",
+            "actor": 3,
+            "target": 4
+        },
+        {
+            "type": "femalemasturbation",
+            "actor": 4
+        }
+    ],
+    "tags": [
+        "billyy"
+    ]
+}

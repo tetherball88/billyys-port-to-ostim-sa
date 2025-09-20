@@ -1,0 +1,91 @@
+{
+    "name": "Billyy Lesbian 3p Orgy 4 Laying",
+    "modpack": "BillyyAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "BillyyL3porgy4-5",
+            "description": "Next(climax)",
+            "icon": "OStim/symbols/climax"
+        },
+        {
+            "destination": "BillyyL3porgy4-3",
+            "description": "Back",
+            "icon": "OStim/symbols/previous"
+        },
+        {
+            "destination": "BillyysLesbianFffHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        },
+        {
+            "destination": "BillyyL3porgy4-4SwappedM0-F1",
+            "description": "Rotate females",
+            "icon": "OStim/symbols/rotate_cw"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "BillyyL3porgy4_4"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingside"
+            ],
+            "autoTransitions": {
+                "climax": "BillyyL3porgy4-5"
+            }
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingside"
+            ],
+            "autoTransitions": {
+                "climax": "BillyyL3porgy4-5"
+            }
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "spreadlegs"
+            ],
+            "autoTransitions": {
+                "climax": "BillyyL3porgy4-5"
+            }
+        }
+    ],
+    "actions": [
+        {
+            "type": "femalemasturbation",
+            "actor": 0
+        },
+        {
+            "type": "vaginalfingering",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "femalemasturbation",
+            "actor": 1
+        },
+        {
+            "type": "rubbingclitoris",
+            "actor": 1,
+            "target": 2
+        }
+    ],
+    "tags": [
+        "billyy"
+    ]
+}

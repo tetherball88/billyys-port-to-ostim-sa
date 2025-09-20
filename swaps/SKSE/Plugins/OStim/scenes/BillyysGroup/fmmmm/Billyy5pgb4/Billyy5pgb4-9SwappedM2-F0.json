@@ -1,0 +1,104 @@
+{
+    "name": "Billyy 5p Gangbang 4 Doggy MMMMF",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "Billyy5pgb4-8SwappedM2-F0",
+    "speeds": [
+        {
+            "animation": "Billyy5pgb4_9"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ],
+            "animationIndex": 2
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ],
+            "animationIndex": 3
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ],
+            "animationIndex": 0
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": -5,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ],
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "allfours",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "analsex",
+            "actor": 1,
+            "target": 4
+        },
+        {
+            "type": "malemasturbation",
+            "actor": 0
+        },
+        {
+            "type": "facial",
+            "actor": 0,
+            "target": 4
+        },
+        {
+            "type": "malemasturbation",
+            "actor": 2
+        },
+        {
+            "type": "facial",
+            "actor": 2,
+            "target": 4
+        },
+        {
+            "type": "malemasturbation",
+            "actor": 3
+        },
+        {
+            "type": "facial",
+            "actor": 3,
+            "target": 4
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

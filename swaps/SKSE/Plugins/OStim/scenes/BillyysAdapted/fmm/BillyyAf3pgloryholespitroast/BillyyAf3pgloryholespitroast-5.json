@@ -1,0 +1,61 @@
+{
+    "name": "Billyy GloryHole 3p MFM Spitroast",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyAf3pgloryholespitroast-4",
+    "speeds": [
+        {
+            "animation": "BillyyAf3pgloryholespitroast_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "bendover",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "blowjob",
+            "actor": 2,
+            "target": 1,
+            "performer": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

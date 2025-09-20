@@ -1,0 +1,94 @@
+{
+    "name": "Billyy 4p Gangbang MMMF 3",
+    "modpack": "BillyyAnimations",
+    "length": 8,
+    "destination": "Billyy4pgangbang3-4SwappedM1-F0",
+    "speeds": [
+        {
+            "animation": "Billyy4pgangbang3_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ],
+            "animationIndex": 2
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 8,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback",
+                "onbottom",
+                "climaxing"
+            ],
+            "animationIndex": 0
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 3,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting",
+                "climaxing"
+            ],
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "ontop",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "analsex",
+            "actor": 0,
+            "target": 3
+        },
+        {
+            "type": "holdingbody",
+            "actor": 0,
+            "target": 3
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 1,
+            "target": 3
+        },
+        {
+            "type": "holdingleg",
+            "actor": 1,
+            "target": 3
+        },
+        {
+            "type": "holdingarm",
+            "actor": 2,
+            "target": 3
+        },
+        {
+            "type": "blowjob",
+            "actor": 3,
+            "target": 2,
+            "performer": 2
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

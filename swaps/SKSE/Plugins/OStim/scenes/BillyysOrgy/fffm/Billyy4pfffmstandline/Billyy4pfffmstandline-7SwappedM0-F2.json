@@ -1,0 +1,81 @@
+{
+    "name": "Billyy 4p FFFM Standing Lineup",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "Billyy4pfffmstandline-6SwappedM0-F2",
+    "speeds": [
+        {
+            "animation": "Billyy4pfffmstandline_7"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "bendover",
+                "climaxing"
+            ],
+            "animationIndex": 2
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "bendover",
+                "climaxing"
+            ],
+            "animationIndex": 3
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "bendover",
+                "climaxing"
+            ],
+            "animationIndex": 1
+        }
+    ],
+    "actions": [
+        {
+            "type": "malemasturbation",
+            "actor": 0
+        },
+        {
+            "type": "cumonbutt",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "cumonbutt",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "cumonbutt",
+            "actor": 0,
+            "target": 3
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

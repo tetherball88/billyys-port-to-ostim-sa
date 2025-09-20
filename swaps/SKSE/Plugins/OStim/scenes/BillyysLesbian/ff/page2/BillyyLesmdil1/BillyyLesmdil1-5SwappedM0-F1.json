@@ -1,0 +1,58 @@
+{
+    "name": "Billyy Lesbian Magic Dildo 1",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyLesmdil1-4SwappedM0-F1",
+    "speeds": [
+        {
+            "animation": "BillyyLesmdil1_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ],
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingfront",
+                "climaxing"
+            ],
+            "animationIndex": 0
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginaltoying",
+            "actor": 0
+        },
+        {
+            "type": "analtoying",
+            "actor": 0
+        },
+        {
+            "type": "lickingvagina",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "pattinghead",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "billyy",
+        "magic",
+        "transition"
+    ]
+}

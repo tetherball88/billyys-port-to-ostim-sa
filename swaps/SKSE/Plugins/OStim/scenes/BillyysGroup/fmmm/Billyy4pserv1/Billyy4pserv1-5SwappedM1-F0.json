@@ -1,0 +1,87 @@
+{
+    "name": "Billyy 4p Service MMMF",
+    "modpack": "BillyyAnimations",
+    "length": 8,
+    "destination": "Billyy4pserv1-4SwappedM1-F0",
+    "speeds": [
+        {
+            "animation": "Billyy4pserv1_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ],
+            "animationIndex": 2
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ],
+            "animationIndex": 0
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ],
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "facial",
+            "actor": 0,
+            "target": 3
+        },
+        {
+            "type": "facial",
+            "actor": 1,
+            "target": 3
+        },
+        {
+            "type": "facial",
+            "actor": 2,
+            "target": 3
+        },
+        {
+            "type": "malemasturbation",
+            "actor": 1
+        },
+        {
+            "type": "malemasturbation",
+            "actor": 2
+        },
+        {
+            "type": "malemasturbation",
+            "actor": 0
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

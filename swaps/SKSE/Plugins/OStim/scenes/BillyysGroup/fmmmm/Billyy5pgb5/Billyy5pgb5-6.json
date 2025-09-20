@@ -1,0 +1,100 @@
+{
+    "name": "Billyy 5p Gangbang 5 Rev Cowgirl MMMMF",
+    "modpack": "BillyyAnimations",
+    "length": 8,
+    "destination": "Billyy5pgb5-5",
+    "speeds": [
+        {
+            "animation": "Billyy5pgb5_6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 4
+        },
+        {
+            "type": "malemasturbation",
+            "actor": 1
+        },
+        {
+            "type": "facial",
+            "actor": 1,
+            "target": 4
+        },
+        {
+            "type": "malemasturbation",
+            "actor": 2
+        },
+        {
+            "type": "facial",
+            "actor": 2,
+            "target": 4
+        },
+        {
+            "type": "malemasturbation",
+            "actor": 3
+        },
+        {
+            "type": "cumonchest",
+            "actor": 3,
+            "target": 4
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

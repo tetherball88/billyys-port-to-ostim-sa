@@ -1,0 +1,49 @@
+{
+    "name": "Billyy Lesbian Cunnilingus 3 Behind",
+    "modpack": "BillyyAnimations",
+    "length": 8.333333,
+    "destination": "BillyyLcunn3-4SwappedM0-F1",
+    "speeds": [
+        {
+            "animation": "BillyyLcunn3_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ],
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "handstanding",
+                "facingaway",
+                "climaxing"
+            ],
+            "animationIndex": 0
+        }
+    ],
+    "actions": [
+        {
+            "type": "lickingvagina",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "hug",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "billyy",
+        "transition"
+    ]
+}

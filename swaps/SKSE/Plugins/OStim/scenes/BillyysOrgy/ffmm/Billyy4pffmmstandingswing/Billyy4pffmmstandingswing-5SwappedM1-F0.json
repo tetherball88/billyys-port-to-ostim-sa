@@ -1,0 +1,98 @@
+{
+    "name": "Billyy 4p FFMM Standing Swing",
+    "modpack": "BillyyAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "Billyy4pffmmstandingswing-6SwappedM1-F0",
+            "description": "Next",
+            "icon": "OStim/symbols/next"
+        },
+        {
+            "destination": "Billyy4pffmmstandingswing-4SwappedM1-F0",
+            "description": "Back",
+            "icon": "OStim/symbols/previous"
+        },
+        {
+            "destination": "BillyysOrgyFfmmHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        },
+        {
+            "destination": "Billyy4pffmmstandingswing-5",
+            "description": "Rotate males",
+            "icon": "OStim/symbols/rotate_cw"
+        },
+        {
+            "destination": "Billyy4pffmmstandingswing-5SwappedM1-F1",
+            "description": "Rotate females",
+            "icon": "OStim/symbols/rotate_cw"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "Billyy4pffmmstandingswing_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 3,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "animationIndex": 0
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "animationIndex": 2
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "bendover"
+            ],
+            "animationIndex": 3
+        }
+    ],
+    "actions": [
+        {
+            "type": "kissing",
+            "actor": 2,
+            "target": 1
+        },
+        {
+            "type": "handjob",
+            "actor": 2,
+            "target": 1
+        },
+        {
+            "type": "blowjob",
+            "actor": 3,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "anubs"
+    ]
+}
